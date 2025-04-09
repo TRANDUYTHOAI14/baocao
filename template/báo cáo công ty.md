@@ -23,19 +23,21 @@ Dạ em gửi phần tổng kết viết bài MKT tháng 03/2025:
 
 MT
 ===========
-T3-01,
-Kính gửi chị Hạ @Summer ,
+T4-01,
+Kính gửi chị Hạ @Summer,
+
 Dạ em gửi phần tổng kết viết bài MKT 03/2025:
+
 1/ Bài viết fanpage:
-- Người thực hiện: C.Thuần, A.Quang, C.Lệ Trinh, Thoại
+- Người thực hiện: Chị Thuần, Anh Quang, Chị Lệ Trinh, Thoại
 - Quy định: 21
 - Số lượng đã viết: 26
-=> Đạt hơn 100%
+Kết quả: Đạt hơn 100%
 
 2/ Website:
 - Quy định: 2
 - Số lượng đã viết: 2
-=> Đạt hơn 100%
+Kết quả: Đạt hơn 100%
 
 3/ Ấn phẩm: 
 - Ngày 30/4 và 01/05   ==> đã xong
@@ -52,21 +54,23 @@ Dạ em gửi phần tổng kết viết bài MKT 03/2025:
 
 NT
 ===========
-T03-01,
-Kính gửi chị Hạ @Summer  ,
+T04-01,
+Kính gửi chị Hạ @Summer,
+
 Dạ em gửi phần tổng kết viết bài MKT tháng 03/2025:
+
 1/ Bài viết fanpage:
-- Người thực hiện: C.Hoàng,Chị Ngân,Mi, Thoại
+- Người thực hiện: Chị Hoàng, Chị Ngân, Mi, Thoại
 - Quy định: 22
 - Số lượng đã viết: 46/22
-=> Đạt hơn 200%
+Kết quả: Đạt hơn 200%
 
 2/ Website:
 - Quy định: 2
 - Số lượng đã viết: 2
-=> Đạt 100%
+Kết quả: Đạt 100%
 
 3/ Ấn phẩm:
 - Thông tin công ty  => chờ duyệt
 - Sản phẩm công ty   => chờ duyệt
-- Company profile - pending đang chờ thay đổi
+- Company profile - đang chờ thay đổi
