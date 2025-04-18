@@ -13,3 +13,5 @@ Gold Gradient Border (Viền chuyển sắc vàng)
 Golden Shine (Ánh sáng vàng)
 
 Gold Glow (Ánh sáng vàng kim)
+
+text Shiny orange
