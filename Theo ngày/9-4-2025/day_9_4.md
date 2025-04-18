@@ -13,3 +13,15 @@ https://global-plas.com/gia-cuoc-van-chuyen-container-xuat-khau-cua-trung-quoc-g
 Em xin cảm ơn ạ!
 
 
+Resin Invoice Email
+Plastic product invoice Email : genaccount@global-plas.com
+
+bao bì đóng gói
+Màng PE quấn pallet, 
+bao lưới đựng trái cây, nông sản
+
+nông sản xuất khẩu
+Gạo, cafe, điều, trà, gừng, nghệ......
+
+trái cây xuất khẩu
+Sầu riêng, dừa, mít, xoài, thanh long......
