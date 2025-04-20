@@ -316,4 +316,4 @@ Tác giả
 Người đóng góp nhiều nhất
 5. Bản Chiến Lược Giá Trị Cao
 "Tôi đang bán một [sản phẩm/dịch vụ] giá cao với giá [$X]. Hãy tạo một bài chào hàng làm cho giá cả trở nên hấp dẫn bằng cách nhấn mạnh giá trị, ROI (tỷ lệ hoàn vốn) và chi phí cơ hội. Sử dụng so sánh, phép loại suy và tính khan hiếm để làm cho mức giá có vẻ thấp hơn thực tế."
->>>>>>> f96974a3db13de155f9135f1f13d13f9d197ddde
+
