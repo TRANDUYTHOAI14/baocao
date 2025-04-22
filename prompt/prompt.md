@@ -15,7 +15,7 @@ Tạo hình ảnh Tôi cần tạo 1 hình ảnh kết hợp các hình ảnh sa
 4/ Sử dụng hình thật không biếm họa
 -*
 
-
+Nhận Hoá đơn/ Get E- Invoice
 
 Tôi cần tạo 1 hình ảnh, kết hợp các hình ảnh tôi đính kèm để tạo ra một thiết kế gắn kết, chuyên nghiệp: 
 1/ Kích thước 2260 px x 970 px 
