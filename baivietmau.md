@@ -234,9 +234,11 @@ Liên hệ ngay Kế Toán Thuế Huy Hoàng – đối tác đáng tin cậy c�
 
 
 
-🔰 Căn cứ quy định tại Điều 14 Luật Thuế GTGT;
-🔹 Căn cứ Điều 5, điểm a khoản 2 Điều 9 Nghị định số 209/2013/NĐ-CP ngày 18/12/2013 của Chính phủ;
-
+🔰 Ai đang sử dụng BHYT bản giấy cần đặc biệt lưu ý thông tin này từ 01/06/2025
+Từ ngày 01/06/2025, Bảo hiểm xã hội Việt Nam sẽ dừng cấp thẻ BHYT bản giấy cho hầu hết người dân. Thay vào đó, người tham gia BHYT sẽ sử dụng:
+🔹 Hình ảnh thẻ BHYT trên ứng dụng VssID hoặc VNeID.
+🔹 Căn cước công dân gắn chip.
+🔹 Trường hợp ngoại lệ: Chỉ những người không thể cài đặt ứng dụng VssID, VNeID hoặc không có Căn cước công dân gắn chip mới được cấp thẻ BHYT giấy. Khi cấp lại hoặc đổi thẻ, cán bộ BHXH sẽ hướng dẫn người dân cài đặt và sử dụng ứng dụng VssID, VNeID hoặc CCCD gắn chip.
 
 
 
