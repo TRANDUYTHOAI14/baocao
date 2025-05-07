@@ -6,119 +6,11 @@ CÔNG TY TNHH GIẢI PHÁP NHỰA TOÀN CẦU
 📧 gplastic.co@gmail.com
 
 
-
-FzAlbula
-
-bán hàng xuất khẩu
-Export Sales
-
-Dạ em làm phiên anh chị 1 tí ạ, em xin tạo nhóm để xin 
-HỌ TÊN ĐẦY ĐỦ 
-của anh chị để em làm NameCard cho GP ạ:
-
-Dạ em xóa nhóm ngay khi đủ thông tin ạ hihi em cảm ơn anh chị nhiều
-
-
-Ms. Ngân
-0988 102 289
-
-
-Domestic Sales : Kinh doanh nội địa
-
-Export Sales : Kinh doanh xuất khẩu
-
-Ms.Rachel
-093 203 8754
-
-
-kinhdoanh01@global-plas.com
-
-exportsales01@global-plas.com
-
-exportsales03@global-plas.com
-
-
-
-Mr.Dominic
-0938 962 841
-Ms.Rachel
-093 203 8754
-xuất khẩu
-
-Trần Hoàng Thăng
-
-
-+81 70-3975-1731
-
-
-Mr. Thăng
-0961.802.076
-Ms. Uyên
-
-Minh Cường
-Taxi - Dịch vụ xe du lịch 7 chỗ
-
-Địa chỉ:
-hotline:
-....
-.....
-
-
-T12-04,
-Kính gửi chị @Chị Hạ - Summer  ,
-Dạ em xin gửi kế hoạch làm việc ngày 05/12/2024 ạ:
-- Lập trình website GP (Đã xong phần lập trình tiếng việt)
-- Thiết kế Company Profile CL
-https://clsupplier.com/cac-loai-hat-nhua-pp-co-the-ban-chua-biet/
-- Viết bài cho website CL
-- Đăng bài viết cho các Fanpage
-- Entity SEO, banklink các website.
-- Index các bài viết google console
-Em xin cảm ơn ạ!
-
-Technical service
-
-
-nội dung là :
-Trà trái cây bọn mình dời sang
-202 Tân Quý ( ngay trường Võ Thành Trang )
-
-
-
-
-
-
-
-
-
-
-
-1/ Dịch vụ chuyên nghiệp, nhân viên vui vẻ, nhiệt tình
-
-2/ các bạn tư vấn máy trợ thính ok đó,  hỗ trợ chu đáo, nhiệt tình , mình cảm ơn
-
-3/ Mình đưa mẹ đi khám ở bv gò vấp và được bác sĩ giới thiệu mua máy trợ thính ở trợ thính gò vấp, mẹ mình bị điếc nặng lâu năm luôn rồi á, có mua máy ở chỗ khác rồi mà nghe không được, mỗi lần đeo máy là bị đau đầu, họ cứ bảo là đo đúng thính lực rồi, mà mẹ mình nghe cũng khó khăn lắm luôn, rồi Từ lúc được tư vấn thính lực và mua máy ở trợ thính gò vấp thì mẹ mình nghe thoải mái hơn , mẹ có nói mẹ không bị ù tai nữa, giờ này mới đánh giá được nè, tại mình mới lên thành phố
-
-4/ Thật sự là em rất biết ơn chị Thúy, lúc chị tư vấn em từ facebook qua đến tại cửa hàng máy trợ thính tại gò vấp, chị chuẩn đoán thính lực em khá đúng, em cảm nhận được chị biết được em đang khó khăn thế nào khi nói chuỵen với bạn, với gia đình em, khi đeo máy trợ thính chị tư vấn thì em cảm thấy như được hồi sinh vậy hihi, lần đầu xem phim mà em thấy trọn vẹn cảm xúc như vậy luôn ó, thật sự cảm ơn chị Thúy và máy trợ thính gò vấp rất nhiều
-
-5/ Tôi khá hài lòng về máy trợ thính và thái độ của nhân viên của TRỢ THÍNH GÒ VẤP, trải nghiệm 1 thời gian đeo tôi không cảm thấy mỏi hay khó chịu, lúc đầu được tư vấn và chọn sản phẩm các bạn làm rất chu đáo, tôi cảm ơn bạn Thúy vì giúp tôi nghe được bình thường , giờ tôi coi tivi mà không bị rè rè nữa. Tôi sẽ giới thiệu cho bạn tôi về máy trợ thính gò vấp
-
-
-
 🎄🎄𝐌Ừ𝐍𝐆 𝐆𝐈Á𝐍𝐆 𝐒𝐈𝐍𝐇🎄🎄
-⚡️Ưu đãi đặc biệt 10% cho tất cả các dòng máy Đức- Thuỵ sĩ- Đan Mạch- Mỹ.
-Kèm các quà tặng khi máy: Tặng hộp sấy điện UV tiệt trùng, Pin sử dụng 06 tháng...
 ⚡️Chương trình áp dụng từ ngày 15/12/2024 đến ngày 25/12/2024.
-
-⏯Đến Trợ Thính Gò Vấp để được hiệu chỉnh, tư vấn, thử máy miễn phí!!
-
-—————————————————
 ⏭ 𝐋𝐢𝐞̂𝐧 𝐡𝐞̣̂ đ𝐞̂̉ đ𝐮̛𝐨̛̣𝐜 𝐂𝐡𝐮𝐲𝐞̂𝐧 𝐯𝐢𝐞̂𝐧 𝐓𝐡𝐢́𝐧𝐡 𝐡𝐨̣𝐜 𝐭𝐮̛ 𝐯𝐚̂́n:      
 📲: 0️⃣9️⃣3️⃣1️⃣ 7️⃣0️⃣2️⃣ 7️⃣6️⃣8️⃣
-
-⏭ Đ𝐮̛𝐨̛̀𝐧𝐠 đ𝐢 đ𝐞̂́𝐧 𝐓𝐫𝐨̛̣ 𝐓𝐡𝐢́𝐧𝐡 𝐆𝐨̀ 𝐕𝐚̂́𝐩- 𝐇𝐂𝐌
 📍Google Maps: https://goo.gl/maps/XzPj4UvCkh7PB1S5A
- 
   ——————————————————
 🔰 TRUNG TÂM TRỢ THÍNH GÒ VẤP 
 🏡Địa chỉ: 1079 Phan Văn Trị, P10, Gò Vấp, TP HCM.
@@ -129,16 +21,6 @@ Kèm các quà tặng khi máy: Tặng hộp sấy điện UV tiệt trùng, Pin
 ——————————
 🛒 Gian hàng: 
 🏷https://s.lazada.vn/s.XD2EQ?
-🏷 shopee.vn/trothinhgovap
-🏷 https://www.tiktok.com/@maytrothinh.govap?_t=8mIupk1PqnI&_r=1
-🚛🚛Nhận giao hàng toàn quốc🚛🚛 
-
-#maytrothinh ,#Maytrothinhgovap, #MaytrothinhHCM, #Maytrothinhtotnhat, #Maytrothinhsieunho, #maytrothinhtrongtai
-#maytrothinhchonguoigia
-#ketnoiblutooth
-
-
-
 
 
 Nhựa PET VÀ VAI TRÒ QUAN TRỌNG TRONG XU HƯỚNG SỐNG XANH
@@ -175,49 +57,13 @@ Nhựa PET VÀ VAI TRÒ QUAN TRỌNG TRONG XU HƯỚNG SỐNG XANH
 
 
 🔰 NHỰA PET – TẠI SAO LÀ SỰ LỰA CHỌN HÀNG ĐẦU CHO BAO BÌ THỰC PHẨM?
-📌 Nhựa PET đang là một trong những vật liệu được sử dụng nhiều nhất trong ngành công nghiệp bao bì. Vậy tại sao loại nhựa này lại được ưa chuộng đến vậy?
-
-1️⃣ Đặc tính nổi bật của nhựa PET
-✅ Nhẹ nhưng bền: PET có trọng lượng nhẹ, giúp tiết kiệm chi phí vận chuyển nhưng vẫn đảm bảo độ bền và khả năng chịu lực tốt.
-✅ An toàn cho thực phẩm: Không làm thay đổi hương vị, màu sắc hay chất lượng thực phẩm bên trong.
-✅ Khả năng chống thấm vượt trội: PET chống thấm khí CO2 và O2 hiệu quả, giữ cho thực phẩm và đồ uống luôn tươi mới.
-✅ Dễ dàng tái chế: Nhựa PET nằm trong danh sách các loại nhựa dễ tái chế, giúp giảm thiểu tác động đến môi trường.
-
-2️⃣ Ứng dụng trong bao bì thực phẩm
-🍶 Chai nước uống: Chai nước khoáng, nước ngọt, nước ép đều được làm từ PET nhờ độ trong suốt và khả năng chống thấm tuyệt vời.
-🥡 Hộp đựng thực phẩm: Sử dụng để bảo quản thực phẩm tươi sống, thực phẩm chế biến sẵn.
-🍯 Đựng gia vị: PET không phản ứng với các thành phần axit hoặc dầu mỡ trong thực phẩm.
-
-💡 Bạn đang cần mua nhựa PET chất lượng cao cho sản xuất bao bì?
-Liên hệ ngay CÔNG TY TNHH GIẢI PHÁP NHỰA TOÀN CẦU để được tư vấn và cung cấp nguyên liệu nhựa uy tín!
-
-🏡 151 Đường Võ Thị Sáu, P.6, Q.3, TP.HCM
-☎️ 093 797 39 11
-🌏 global-plas.com
-📧 gplastic.co@gmail.com
-
-#NhựaPET #BaoBìNhựa #AnToànThựcPhẩm #GlobalPlas
-
-
-
-🔰 Giải đáp về một số thắc mắc xoay quanh về nhựa PET
-Nhựa PET đã khá quen thuộc với đời sống sinh hoạt và sản xuất công nghiệp của con người, tuy nhiên trên thực tế không phải ai cũng hiểu rõ về chất liệu này. Sau đây, chúng ta cùng điểm qua một số thắc mắc phổ biến nhất liên quan đến nhựa PET nhé.
-
 🔹 Nhựa số 1 là nhựa gì?
-Giải đáp: Nhựa số 1 có tên khoa học đầy đủ là Polyethylene Terephthalate, là một chất liệu thuộc nhóm Polyme Polyster. Nhựa số 1 còn được gọi là nhựa PET hay nhựa PETE và nó thường được dùng nhiều trong sản xuất các loại chai nhựa đựng nước, hộp đựng thuốc hay đồ chơi trẻ em.
-
-
 
 🔥 [CẬP NHẬT MỚI] LUẬT THUẾ GTGT SỬA ĐỔI – CẬP NHẬT QUAN TRỌNG CHO NĂM 2025!  
 
 ✅ Chính thức có hiệu lực từ 1/7/2025, với những thay đổi nổi bật:  
 
-
-
 📌 Lưu ý: Quy định về ngưỡng doanh thu không chịu thuế sẽ có hiệu lực từ 1/1/2026.  
-
----
-
 ✨ Bạn cần hỗ trợ cập nhật và áp dụng luật thuế mới?  
 Liên hệ ngay Kế Toán Thuế Huy Hoàng – đối tác đáng tin cậy của bạn!  
 
@@ -225,27 +71,6 @@ Liên hệ ngay Kế Toán Thuế Huy Hoàng – đối tác đáng tin cậy c�
 ☎ 0903 370 636  
 🌍 [tuvanthuehuyhoang.vn](http://tuvanthuehuyhoang.vn)  
 📩 dichvuthuehuyhoang@gmail.com  
-
-#tuvanthue #ketoan #thueGTGT #thanhlapdoanhnghiep  
-#dichvuthue #huyhoang #ketoanthue
-
-
-
-
-
-
-🔰 Ai đang sử dụng BHYT bản giấy cần đặc biệt lưu ý thông tin này từ 01/06/2025
-Từ ngày 01/06/2025, Bảo hiểm xã hội Việt Nam sẽ dừng cấp thẻ BHYT bản giấy cho hầu hết người dân. Thay vào đó, người tham gia BHYT sẽ sử dụng:
-🔹 Hình ảnh thẻ BHYT trên ứng dụng VssID hoặc VNeID.
-🔹 Căn cước công dân gắn chip.
-🔹 Trường hợp ngoại lệ: Chỉ những người không thể cài đặt ứng dụng VssID, VNeID hoặc không có Căn cước công dân gắn chip mới được cấp thẻ BHYT giấy. Khi cấp lại hoặc đổi thẻ, cán bộ BHXH sẽ hướng dẫn người dân cài đặt và sử dụng ứng dụng VssID, VNeID hoặc CCCD gắn chip.
-
-
-
-
-
-
-
 
 
 🌟 NHỰA PET – ỨNG DỤNG QUAN TRỌNG TRONG ĐỜI SỐNG HIỆN ĐẠI  
@@ -279,6 +104,78 @@ Liên hệ ngay CÔNG TY TNHH GIẢI PHÁP NHỰA TOÀN CẦU – Đối tác uy
 📧 gplastic.co@gmail.com  
 
 #NhựaPET #Polymer #BaoBìNhựa #NhựaTáiChế #GlobalPlas  
+
+
+
+🌟 So sánh giữa màng PE, màng co nhiệt PVC 🌟 
+Màng PE, màng co nhiệt PVC đều là các sản phẩm bao bì phổ biến được sử dụng rộng rãi trong đời sống và sản xuất. Tuy nhiên, chúng lại có những đặc tính khác nhau, từ đó ứng dụng của từng loại cũng khác nhau. Hãy cùng tìm hiểu về màng PE và màng co nhiệt PVC để có thể sử dụng sản phẩm phù hợp với nhu cầu của mình.
+
+🔍 Màng PE:
+🔹 Độ dày của màng PE phù hợp để đựng các sản phẩm đóng gói nhỏ và nhẹ.
+🔹 Độ dẻo dai và đàn hồi của màng PE cao, giúp tăng độ bền cho bao bì.
+🔹 Chống thấm nước tốt, bảo vệ sản phẩm bên trong không bị ảnh hưởng bởi môi trường ngoài.
+
+🔍 Màng co nhiệt PVC:
+🔹 Độ bóng, độ trong suốt cao, làm nổi bật hình ảnh sản phẩm bên trong.
+🔹 Khả năng chống ẩm, bảo vệ sản phẩm khỏi ảnh hưởng của môi trường bên ngoài.
+🔹 Độ bền cao, khó bị rách, giúp bảo vệ sản phẩm an toàn.
+
+
+📌 Cùng so sánh nhựa PET và nhựa PP
+🔰 Tổng quan về nhựa PET và nhựa PP:
+🔹 PET (Polyethylene Terephthalate): Một loại polymer nhiệt dẻo dùng trong bao bì thực phẩm và đồ uống, nổi tiếng về độ bền, trong suốt và khả năng tái chế.
+🔹 PP (Polypropylene): Một loại nhựa nhiệt dẻo đa năng, được biết đến với tính linh hoạt và khả năng chống hóa chất. Thường dùng trong bao bì, linh kiện ô tô và hàng dệt may.
+
+🔰 Khả năng Tái Chế:
+🔹 PET: Dễ tái chế (mã số #1), được sử dụng rộng rãi trong các chương trình tái chế.
+🔹 PP: Có thể tái chế (mã số #5), nhưng tỷ lệ tái chế thấp hơn PET.
+
+🔰 Ứng Dụng:
+🔹 PET: Bao bì đồ uống, hộp đựng thực phẩm, dệt may, cách nhiệt, bao bì mỹ phẩm......
+🔹 PP: Bao bì thực phẩm, bộ phận ô tô, vật tư y tế, đồ gia dụng, dệt may......
+
+
+
+
+
+🔰 Các bước Gia hạn BHYT Hộ Gia đình Online
+🔹 Truy cập và đăng nhập: Đăng nhập vào tài khoản Cổng Dịch vụ Công Quốc Gia. (Xem thêm: Cách đăng nhập cổng DVC quốc gia bằng VNeID)
+🔹 Chọn dịch vụ: Chọn "Thanh toán trực tuyến" -> "Đóng BHXH tự nguyện và BHYT theo hộ gia đình".
+🔹 Chọn loại gia hạn: Chọn "Gia hạn thẻ BHYT theo hộ gia đình" theo một trong hai hình thức:
+- Không được giảm trừ mức đóng
+- Được giảm trừ mức đóng
+🔹 Nhập thông tin: Nhập "Mã thẻ BHYT" (bắt đầu bằng GD...), "Số tháng gia hạn" và "Mã bảo mật". Sau đó chọn "Tra cứu".
+- Lưu ý: Nhập mã thẻ BHYT của người cần đóng tiền. Nếu quên mã thẻ, hãy tra cứu lại.
+🔹 Thanh toán: Sau khi tra cứu, hệ thống hiển thị thông tin và số tiền cần nộp. Chọn tài khoản thụ hưởng của cơ quan BHXH và nhấn "Thanh toán". Chọn hình thức thanh toán mong muốn.
+🔹 Hoàn tất: Hệ thống thông báo thanh toán thành công và gửi biên lai. Bạn có thể tra cứu lại lịch sử giao dịch trong mục "Thông tin cá nhân"
+
+🔰 Mức đóng BHYT Hộ Gia đình (áp dụng từ 01/07/2024)
+Mức đóng BHYT hộ gia đình được tính dựa trên mức lương cơ sở (2.340.000 đồng/tháng):
+
+
+
+📌 Khai thuế GTGT cho chi nhánh ngoài tỉnh riêng hay chung với Công ty?
+🔍 Theo hướng dẫn của Cục Thuế về việc khai thuế GTGT cho chi nhánh ngoài tỉnh, dựa trên Công văn số 831/CT-NVT ngày 24/4/2025.
+
+🔰 Trường hợp Khai Thuế Tập Trung:
+🔹 Công ty chuyển sang mô hình hạch toán tập trung tại trụ sở chính.
+🔹 Trụ sở chính trực tiếp xuất hóa đơn GTGT cho hoạt động sản xuất, kinh doanh của chi nhánh (trừ đơn vị quản lý hợp đồng hợp tác kinh doanh).
+🔹 Công ty đáp ứng đủ điều kiện khấu trừ thuế GTGT đầu vào của toàn bộ hoạt động của các chi nhánh. Trong trường hợp này, công ty được khai thuế GTGT tập trung tại trụ sở chính và phân bổ cho địa phương có cơ sở sản xuất theo quy định (khoản 1 Điều 12, khoản 1 và khoản 4 Điều 13 Thông tư 80/2021/TT-BTC).
+
+🔰 Trường hợp Chi Nhánh Khai Thuế Riêng:
+🔹 Chi nhánh trực tiếp bán hàng, sử dụng hóa đơn do chi nhánh đăng ký với cơ quan thuế quản lý.
+🔹 Chi nhánh theo dõi hạch toán đầy đủ thuế GTGT đầu ra, đầu vào. Khi đó, chi nhánh khai thuế và nộp thuế GTGT cho cơ quan thuế quản lý trực tiếp.
+
+🔰 Trường hợp Hợp Đồng Hợp Tác Kinh Doanh:
+Công ty được giao quản lý Hợp đồng hợp tác kinh doanh nhưng không thành lập pháp nhân riêng. Phải khai riêng thuế GTGT của Hợp đồng hợp tác kinh doanh theo thỏa thuận tại Hợp đồng.
+
+
+
+
+
+
+
+
 
 
 
