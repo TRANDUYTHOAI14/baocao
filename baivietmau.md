@@ -171,7 +171,38 @@ Công ty được giao quản lý Hợp đồng hợp tác kinh doanh nhưng kh�
 
 
 
+📌 Bỏ quy định hủy hóa đơn điện tử khi sai sót từ 01/06/2025 theo nghị định 70
+🔰 Thay đổi về Xử lý Hóa đơn Điện tử có Sai sót từ 01/06/2025 theo Nghị định 70
+Nghị định 70/2025/NĐ-CP chính thức có hiệu lực từ ngày 01/06/2025, mang đến thay đổi quan trọng trong việc xử lý hóa đơn điện tử có sai sót. Việc bỏ quy định hủy hóa đơn điện tử khi sai sót và thay bằng quy trình xử lý mới giúp đơn giản hóa thủ tục hành chính, tạo sự linh hoạt cho doanh nghiệp.
 
+🔰 Những điểm mới của Nghị định 70
+🔍 Bỏ quy định hủy hóa đơn điện tử khi có sai sót
+Hiện hành (Nghị định 123/2020/NĐ-CP): Người bán phải hủy hóa đơn điện tử đã lập sai (chưa gửi cho người mua) và lập hóa đơn mới.
+Quy định mới (Nghị định 70/2025/NĐ-CP): Bỏ quy định hủy hóa đơn điện tử đã lập sai.
+
+📝 Bổ sung các quy định mới, văn bản thỏa thuận:
+🔹 Khi điều chỉnh hoặc thay thế hóa đơn điện tử đã lập sai, người bán và người mua (là doanh nghiệp, tổ chức, hộ kinh doanh, cá nhân kinh doanh) phải có văn bản thỏa thuận ghi rõ nội dung sai.
+Nếu người mua là cá nhân, người bán cần thông báo cho người mua hoặc thông báo trên website.
+🔹 Hóa đơn thay thế/điều chỉnh: Có thể lập 01 hóa đơn để thay thế hoặc điều chỉnh cho nhiều hóa đơn đã lập sai trong cùng tháng của cùng 01 người mua.
+🔹 Cơ quan thuế phát hiện sai sót:
+🔹 Cơ quan thuế thông báo cho người bán để kiểm tra.
+🔹 Người bán có trách nhiệm rà soát và điều chỉnh, thay thế hóa đơn.
+🔹 Bỏ quy định cơ quan thuế phải thông báo về việc tiếp nhận và xử lý trong 01 ngày làm việc.
+
+📝 Quy trình xử lý hóa đơn điện tử có sai sót từ 01/06/2025
+🔹 Sai tên, địa chỉ người mua (không sai mã số thuế, nội dung khác)
+Người bán thông báo cho người mua (không cần lập lại hóa đơn).
+Người bán thông báo với cơ quan thuế theo Mẫu số 04/SS-HĐĐT.
+Kê khai thuế theo thông tin đã điều chỉnh.
+🔹 Sai mã số thuế, số tiền, thuế suất, hàng hóa
+🔹 Thông báo và thỏa thuận: Các bên thông báo và thỏa thuận về sai sót và cách điều chỉnh.
+🔹 Lập biên bản thỏa thuận: Ghi rõ thông tin hóa đơn gốc, nội dung sai sót, nội dung điều chỉnh, lý do, chữ ký điện tử của cả hai bên.
+
+📝 Lập hóa đơn điều chỉnh/thay thế:
+🔹 Hóa đơn điều chỉnh: Ghi rõ "Điều chỉnh cho hóa đơn Mẫu số... ký hiệu... số... ngày... tháng... năm".
+🔹 Hóa đơn thay thế: Ghi rõ "Thay thế cho hóa đơn Mẫu số... ký hiệu... số... ngày... tháng... năm".
+🔹 Gửi hóa đơn điều chỉnh (nếu có thỏa thuận).
+🔹 Kê khai thuế GTGT theo hóa đơn gốc và hóa đơn điều chỉnh (nếu ảnh hưởng đến số thuế).
 
 
 
