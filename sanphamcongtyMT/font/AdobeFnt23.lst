@@ -1,0 +1,8049 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font.rar
+FileModTime:1745250391
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTV-The-Californication
+FamilyName:1FTV The Californication
+StyleName:Regular
+FullName:1FTV The Californication
+MenuName:1FTV The Californication
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV The Californication.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70592
+FileModTime:1650989039
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV The Californication
+NameArray:0,Win,1,1FTV The Californication
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTVVIPForeverDreaming
+FamilyName:1FTV VIP Forever Dreaming
+StyleName:Regular
+FullName:1FTV VIP Forever Dreaming
+MenuName:Forever Dreaming
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV VIP Forever Dreaming.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:256116
+FileModTime:1699519850
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Forever Dreaming
+NameArray:0,Win,1,Forever Dreaming
+NameArray:0,Win,16,1FTV VIP Forever Dreaming
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTV-Montera
+FamilyName:1FTV Montera
+StyleName:Regular
+FullName:1FTV Montera
+MenuName:1FTV Montera
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV VIP Montera.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93328
+FileModTime:1652259707
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Montera
+NameArray:0,Win,1,1FTV Montera
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTV-VIP-Neue-Power-Ultra
+FamilyName:1FTV VIP Neue Power
+StyleName:Ultra
+FullName:1FTV VIP Neue Power Ultra
+MenuName:1FTV VIP Neue Power Ultra
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV VIP Neue Power Ultra.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:77004
+FileModTime:1655010343
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Neue Power Ultra
+NameArray:0,Win,1,1FTV VIP Neue Power Ultra
+NameArray:0,Win,16,1FTV VIP Neue Power
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTV-VIP-Neue-Power-Light
+FamilyName:1FTV VIP Neue Power
+StyleName:Light
+FullName:1FTV VIP Neue Power Light
+MenuName:1FTV VIP Neue Power Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV VIP NeuePower-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:77076
+FileModTime:1654962672
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Neue Power Light
+NameArray:0,Win,1,1FTV VIP Neue Power Light
+NameArray:0,Win,16,1FTV VIP Neue Power
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTV-VIP-Neue-Power-Medium
+FamilyName:1FTV VIP Neue Power
+StyleName:Medium
+FullName:1FTV VIP Neue Power Medium
+MenuName:1FTV VIP Neue Power
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV VIP NeuePower-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74520
+FileModTime:1654963921
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Neue Power Medium
+NameArray:0,Win,1,1FTV VIP Neue Power
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTV-VIP-Neue-Power-Regular
+FamilyName:1FTV VIP Neue Power
+StyleName:Regular
+FullName:1FTV VIP Neue Power Regular
+MenuName:1FTV VIP Neue Power
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV VIP NeuePower-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74352
+FileModTime:1655008375
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Neue Power Regular
+NameArray:0,Win,1,1FTV VIP Neue Power
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVAkiraExpanded-SuperBold
+FamilyName:1FTV Akira Expanded
+StyleName:Super Bold
+FullName:1FTV Akira Expanded Super Bold
+MenuName:1FTV Akira Expanded
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Akira-Expanded.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:17732
+FileModTime:1729572102
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Akira Expanded Super Bold
+NameArray:0,Win,1,1FTV Akira Expanded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTV-AkisaRegular
+FamilyName:1FTV Akisa
+StyleName:Regular
+FullName:1FTV Akisa
+MenuName:1FTV Akisa
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Akisa.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61448
+FileModTime:1729572383
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Akisa
+NameArray:0,Win,1,1FTV Akisa
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVAvilock-Bold
+FamilyName:1FTV Avilock
+StyleName:Bold
+FullName:1FTV Avilock Bold
+MenuName:1FTV Avilock Bold
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Avilock-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24272
+FileModTime:1729572075
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Avilock Bold
+NameArray:0,Win,1,1FTV Avilock Bold
+NameArray:0,Win,16,1FTV Avilock
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVBachChau
+FamilyName:1FTV Bach Chau
+StyleName:Regular
+FullName:1FTV Bach Chau
+MenuName:1FTV Bach Chau
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Bach-chau.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:709724
+FileModTime:1729572437
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Bach Chau
+NameArray:0,Win,1,1FTV Bach Chau
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVChampha
+FamilyName:1FTV Cham pha
+StyleName:Regular
+FullName:1FTV Cham pha
+MenuName:1FTV Cham pha
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Cham-pha.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:199800
+FileModTime:1729572453
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Cham pha
+NameArray:0,Win,1,1FTV Cham pha
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVDesignerRegular
+FamilyName:1FTV Designer
+StyleName:Regular
+FullName:1FTV Designer
+MenuName:1FTV Designer
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Designer.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:41536
+FileModTime:1729572058
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Designer
+NameArray:0,Win,1,1FTV Designer
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVGasket-Regular
+FamilyName:1FTV Gasket
+StyleName:Regular
+FullName:1FTV Gasket Regular
+MenuName:1FTV Gasket
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Gasket.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34880
+FileModTime:1729572016
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Gasket Regular
+NameArray:0,Win,1,1FTV Gasket
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTV-Gisellina
+FamilyName:1FTV Gisellina
+StyleName:Regular
+FullName:1FTV Gisellina
+MenuName:1FTV Gisellina
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Gisellina.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:105340
+FileModTime:1729572410
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Gisellina
+NameArray:0,Win,1,1FTV Gisellina
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTVHFGesco
+FamilyName:1FTV HF Gesco
+StyleName:Regular
+FullName:1FTV HF Gesco
+MenuName:1FTV HF Gesco
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-HF-Gesco.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:38084
+FileModTime:1729573327
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV HF Gesco
+NameArray:0,Win,1,1FTV HF Gesco
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTVMaestrale
+FamilyName:1FTV Maestrale
+StyleName:Pro
+FullName:1FTV Maestrale
+MenuName:1FTV Maestrale
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Maestrale.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:91692
+FileModTime:1729572397
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Maestrale
+NameArray:0,Win,1,1FTV Maestrale
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVMilkerRegular
+FamilyName:1FTV Milker
+StyleName:Regular
+FullName:1FTV Milker
+MenuName:1FTV Milker
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Milker.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:21624
+FileModTime:1729572114
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Milker
+NameArray:0,Win,1,1FTV Milker
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTVNaserra
+FamilyName:1FTV Naserra
+StyleName:Regular
+FullName:1FTV Naserra
+MenuName:1FTV Naserra
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Naserra.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:155048
+FileModTime:1729571386
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Naserra
+NameArray:0,Win,1,1FTV Naserra
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVNoxis
+FamilyName:1FTV Noxis
+StyleName:Personal Use
+FullName:1FTV Noxis
+MenuName:1FTV Noxis
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Noxis.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:18400
+FileModTime:1729571554
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Noxis
+NameArray:0,Win,1,1FTV Noxis
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVRetroyal-Medium
+FamilyName:1FTV Retroyal
+StyleName:Medium
+FullName:1FTV Retroyal Medium
+MenuName:1FTV Retroyal
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Retroyal.medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33216
+FileModTime:1729572031
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Retroyal Medium
+NameArray:0,Win,1,1FTV Retroyal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTVRigsport
+FamilyName:1FTV Rigsport
+StyleName:Regular
+FullName:1FTV Rigsport
+MenuName:1FTV Rigsport
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Rigsport.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:41328
+FileModTime:1729571424
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Rigsport
+NameArray:0,Win,1,1FTV Rigsport
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTV-Romaji-Mincho
+FamilyName:1FTV-Romaji Mincho
+StyleName:Regular
+FullName:1FTV-Romaji Mincho
+MenuName:1FTV-Romaji Mincho
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-RomajiMincho.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61152
+FileModTime:1729572369
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV-Romaji Mincho
+NameArray:0,Win,1,1FTV-Romaji Mincho
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVSacredRamadhan
+FamilyName:1FTV Sacred Ramadhan
+StyleName:Regular
+FullName:1FTV Sacred Ramadhan
+MenuName:1FTV Sacred Ramadhan
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Sacred-Ramadhan.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:49768
+FileModTime:1729571858
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Sacred Ramadhan
+NameArray:0,Win,1,1FTV Sacred Ramadhan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVTheBoldFont
+FamilyName:1FTV The Bold Font
+StyleName:Bold
+FullName:1FTV The Bold Font
+MenuName:1FTV The Bold Font
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-The-Bold-Font.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:14868
+FileModTime:1729572088
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV The Bold Font
+NameArray:0,Win,1,1FTV The Bold Font
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPAmoera
+FamilyName:1FTV VIP Amoera
+StyleName:Regular
+FullName:1FTV VIP Amoera
+MenuName:1FTV VIP Amoera
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Amoera.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34388
+FileModTime:1729571698
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Amoera
+NameArray:0,Win,1,1FTV VIP Amoera
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTV-VIP-Amsterdam-Signature
+FamilyName:1FTV VIP Amsterdam Signature
+StyleName:Regular
+FullName:1FTV VIP Amsterdam Signature
+MenuName:1FTV VIP Amsterdam Signature
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Amsterdam-Signature.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:209152
+FileModTime:1729571791
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Amsterdam Signature
+NameArray:0,Win,1,1FTV VIP Amsterdam Signature
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTV-VIP-BANDEM
+FamilyName:1FTV VIP BANDEM
+StyleName:Regular
+FullName:1FTV VIP BANDEM
+MenuName:1FTV VIP BANDEM
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-BANDEM.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1179572
+FileModTime:1729572300
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP BANDEM
+NameArray:0,Win,1,1FTV VIP BANDEM
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPBaksoSapi
+FamilyName:1FTV VIP Bakso Sapi
+StyleName:Regular
+FullName:1FTV VIP Bakso Sapi
+MenuName:1FTV VIP Bakso Sapi
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Bakso-Sapi.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37476
+FileModTime:1729571713
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Bakso Sapi
+NameArray:0,Win,1,1FTV VIP Bakso Sapi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPBastligaOne
+FamilyName:1FTV VIP Bastliga One
+StyleName:One
+FullName:1FTV VIP Bastliga One
+MenuName:1FTV VIP Bastliga One
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Bastliga-One-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:765664
+FileModTime:1729572185
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Bastliga One
+NameArray:0,Win,1,1FTV VIP Bastliga One
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPBellamyStevenson
+FamilyName:1FTV VIP Bellamy Stevenson
+StyleName:Regular
+FullName:1FTV VIP Bellamy Stevenson
+MenuName:1FTV VIP Bellamy Stevenson
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Bellamy-Stevenson.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92324
+FileModTime:1729571777
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Bellamy Stevenson
+NameArray:0,Win,1,1FTV VIP Bellamy Stevenson
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPBerlinSans
+FamilyName:1FTV VIP Berlin Sans
+StyleName:Regular
+FullName:1FTV VIP Berlin Sans
+MenuName:1FTV VIP Berlin Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Berlin-Sans.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:26516
+FileModTime:1729572139
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Berlin Sans
+NameArray:0,Win,1,1FTV VIP Berlin Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPBlacksword
+FamilyName:1FTV VIP Blacksword
+StyleName:Regular
+FullName:1FTV VIP Blacksword
+MenuName:1FTV VIP Blacksword
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Blacksword.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57432
+FileModTime:1704611103
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Blacksword
+NameArray:0,Win,1,1FTV VIP Blacksword
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPCalabassas
+FamilyName:1FTV VIP Calabassas
+StyleName:Regular
+FullName:1FTV VIP Calabassas
+MenuName:1FTV VIP Calabassas
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Calabassas.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:38448
+FileModTime:1729571685
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Calabassas
+NameArray:0,Win,1,1FTV VIP Calabassas
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPCarbon
+FamilyName:1FTV VIP Carbon
+StyleName:Black
+FullName:1FTV VIP Carbon
+MenuName:1FTV VIP Carbon
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Carbon.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28912
+FileModTime:1729571298
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Carbon
+NameArray:0,Win,1,1FTV VIP Carbon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPChristmasWishmonoline
+FamilyName:1FTV VIP Christmas Wish monolin
+StyleName:monoline
+FullName:1FTV VIP Christmas Wish monoline
+MenuName:1FTV VIP Christmas Wish monoline
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Christmas-Wish-monoline.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:23296
+FileModTime:1704611511
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Christmas Wish monoline
+NameArray:0,Win,1,1FTV VIP Christmas Wish monoline
+NameArray:0,Win,16,1FTV VIP Christmas Wish monolin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPDigitalt
+FamilyName:1FTV VIP Digitalt
+StyleName:Medium
+FullName:1FTV VIP Digitalt
+MenuName:1FTV VIP Digitalt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Digitalt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37148
+FileModTime:1729571599
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Digitalt
+NameArray:0,Win,1,1FTV VIP Digitalt
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPFiregoods
+FamilyName:1FTV VIP Firegoods
+StyleName:Regular
+FullName:1FTV VIP Firegoods
+MenuName:1FTV VIP Firegoods
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Firegoods.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:63124
+FileModTime:1729571165
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Firegoods
+NameArray:0,Win,1,1FTV VIP Firegoods
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPFruitsDelight
+FamilyName:1FTV VIP Fruits Delight
+StyleName:Regular
+FullName:1FTV VIP Fruits Delight
+MenuName:1FTV VIP Fruits Delight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Fruits-Delight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57156
+FileModTime:1729571746
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Fruits Delight
+NameArray:0,Win,1,1FTV VIP Fruits Delight
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPGustavo-ThinItalic
+FamilyName:1FTV VIP Gustavo
+StyleName:Thin Italic
+FullName:1FTV VIP Gustavo Thin Italic
+MenuName:1FTV VIP Gustavo Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Gustavo-Thin-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:20212
+FileModTime:1729572127
+WeightClass:100
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,1FTV VIP Gustavo Thin Italic
+NameArray:0,Win,1,1FTV VIP Gustavo Thin
+NameArray:0,Win,16,1FTV VIP Gustavo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPHighSpirited
+FamilyName:1FTV VIP High Spirited
+StyleName:Regular
+FullName:1FTV VIP High Spirited
+MenuName:1FTV VIP High Spirited
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-High-Spirited.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:44808
+FileModTime:1729571755
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP High Spirited
+NameArray:0,Win,1,1FTV VIP High Spirited
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTVVIPMedino
+FamilyName:1FTV VIP Medino
+StyleName:Regular
+FullName:1FTV VIP Medino
+MenuName:1FTV VIP Medino
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Medino.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:141352
+FileModTime:1704610769
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Medino
+NameArray:0,Win,1,1FTV VIP Medino
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPMonkisa-Bold
+FamilyName:1FTV VIP Monkisa
+StyleName:Bold
+FullName:1FTV VIP Monkisa Bold
+MenuName:1FTV VIP Monkisa
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Monkisa-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:31584
+FileModTime:1729571372
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Monkisa Bold
+NameArray:0,Win,1,1FTV VIP Monkisa
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPNeufreitExtraBold
+FamilyName:1FTV VIP Neufreit Extra Bold
+StyleName:ExtraBold
+FullName:1FTV VIP Neufreit Extra Bold
+MenuName:1FTV VIP Neufreit Extra Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Neufreit-Extra-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:76960
+FileModTime:1729571541
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Neufreit Extra Bold
+NameArray:0,Win,1,1FTV VIP Neufreit Extra Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPPassionOne-Bold
+FamilyName:1FTV VIP Passion One
+StyleName:Bold
+FullName:1FTV VIP Passion One Bold
+MenuName:1FTV VIP Passion One
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Passion-One-bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30832
+FileModTime:1729571870
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Passion One Bold
+NameArray:0,Win,1,1FTV VIP Passion One
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTV-VIP-Rafaesty-Wigera
+FamilyName:1FTV VIP Rafaesty Wigera
+StyleName:Regular
+FullName:1FTV VIP Rafaesty Wigera
+MenuName:1FTV VIP Rafaesty Wigera
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Rafaesty-Wigera.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:296712
+FileModTime:1729571806
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Rafaesty Wigera
+NameArray:0,Win,1,1FTV VIP Rafaesty Wigera
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPRaleway-Light
+FamilyName:1FTV VIP Raleway
+StyleName:Light
+FullName:1FTV VIP Raleway Light
+MenuName:1FTV VIP Raleway
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Raleway-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:54696
+FileModTime:1729571325
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Raleway Light
+NameArray:0,Win,1,1FTV VIP Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPRetroGexay
+FamilyName:1FTV VIP Retro Gexay
+StyleName:Regular
+FullName:1FTV VIP Retro Gexay
+MenuName:1FTV VIP Retro Gexay
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Retro-Gexay.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:48544
+FileModTime:1729571350
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Retro Gexay
+NameArray:0,Win,1,1FTV VIP Retro Gexay
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTVVIPSSJourney-Regular
+FamilyName:1FTV VIP SS Journey
+StyleName:Regular
+FullName:1FTV VIP SS Journey
+MenuName:1FTV VIP SS Journey
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-SS-Journey.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:109372
+FileModTime:1729571570
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP SS Journey
+NameArray:0,Win,1,1FTV VIP SS Journey
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTV-Starife
+FamilyName:1FTV Starife
+StyleName:Regular
+FullName:1FTV Starife
+MenuName:1FTV Starife
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Starife.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74452
+FileModTime:1651222769
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Starife
+NameArray:0,Win,1,1FTV Starife
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTVVIPSverigeScript
+FamilyName:1FTV VIP Sverige Script
+StyleName:Regular
+FullName:1FTV VIP Sverige Script
+MenuName:1FTV VIP Sverige Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Sverige-Script.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:448380
+FileModTime:1704610970
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,1FTV VIP Sverige Script
+NameArray:0,Win,1,1FTV VIP Sverige Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPTitanOne
+FamilyName:1FTV VIP Titan One
+StyleName:Regular
+FullName:1FTV VIP Titan One
+MenuName:1FTV VIP Titan One
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Titan-One.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:51040
+FileModTime:1729571407
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Titan One
+NameArray:0,Win,1,1FTV VIP Titan One
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPVaruna
+FamilyName:1FTV VIP Varuna
+StyleName:Regular
+FullName:1FTV VIP Varuna
+MenuName:1FTV VIP Varuna
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Varuna.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28616
+FileModTime:1729571668
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Varuna
+NameArray:0,Win,1,1FTV VIP Varuna
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPWeatherSunday
+FamilyName:1FTV VIP Weather Sunday
+StyleName:Regular
+FullName:1FTV VIP Weather Sunday
+MenuName:1FTV VIP Weather Sunday
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Weather-Sunday.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59108
+FileModTime:1704611226
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Weather Sunday
+NameArray:0,Win,1,1FTV VIP Weather Sunday
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPWonderfulMagic
+FamilyName:1FTV VIP Wonderful Magic
+StyleName:Regular
+FullName:1FTV VIP Wonderful Magic
+MenuName:1FTV VIP Wonderful Magic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Wonderful-Magic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57124
+FileModTime:1729572166
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Wonderful Magic
+NameArray:0,Win,1,1FTV VIP Wonderful Magic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVVIPYearbook
+FamilyName:1FTV VIP Yearbook
+StyleName:Regular
+FullName:1FTV VIP Yearbook
+MenuName:1FTV VIP Yearbook
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-VIP-Yearbook.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2430720
+FileModTime:1729571587
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV VIP Yearbook
+NameArray:0,Win,1,1FTV VIP Yearbook
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:1FTV-Vellago
+FamilyName:1FTV Vellago
+StyleName:Regular
+FullName:1FTV Vellago
+MenuName:1FTV Vellago
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Vellago.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:124796
+FileModTime:1666575686
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Vellago
+NameArray:0,Win,1,1FTV Vellago
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:1FTVWolfers
+FamilyName:1FTV Wolfers
+StyleName:Regular
+FullName:1FTV Wolfers
+MenuName:1FTV Wolfers
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\1ftv-font\1FTV-Wolfers.regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:52600
+FileModTime:1729572045
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,1FTV Wolfers
+NameArray:25,Win,1,Normal
+NameArray:29,Win,1,obyčejné
+NameArray:0,Win,1,normal
+NameArray:0,Win,1,Standard
+NameArray:6,Win,1,Κανονικά
+NameArray:0,Win,1,1FTV Wolfers
+NameArray:0,Win,1,Normal
+NameArray:0,Win,1,Normaali
+NameArray:0,Win,1,Normal
+NameArray:29,Win,1,Normál
+NameArray:0,Win,1,Normale
+NameArray:0,Win,1,Standaard
+NameArray:0,Win,1,Normal
+NameArray:29,Win,1,Normalny
+NameArray:0,Win,1,Normal
+NameArray:7,Win,1,Обычный
+NameArray:29,Win,1,Normálne
+NameArray:0,Win,1,Normal
+NameArray:0,Win,1,Normal
+NameArray:29,Win,1,Navadno
+NameArray:0,Win,1,Arrunta
+NameArray:0,Win,1,Normal
+NameArray:0,Win,1,Normal
+NameArray:0,Win,1,Normal
+NameArray:0,Win,1,Normal
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font.rar
+FileModTime:1745250653
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-AaronScript
+FamilyName:SVN-Aaron Script
+StyleName:Regular
+FullName:SVN-Aaron Script
+MenuName:SVN-Aaron Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Aaron Script.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:193716
+FileModTime:1428210666
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Aaron Script
+NameArray:0,Win,1,SVN-Aaron Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-AbrilFatface
+FamilyName:SVN-Abril Fatface
+StyleName:Regular
+FullName:SVN-Abril Fatface
+MenuName:SVN-Abril Fatface
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Abril Fatface.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:157632
+FileModTime:1446619074
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Abril Fatface
+NameArray:0,Win,1,SVN-Abril Fatface
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-AdamGorry
+FamilyName:SVN-Adam Gorry
+StyleName:Regular
+FullName:SVN-Adam Gorry
+MenuName:SVN-Adam Gorry
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Adam Gorry.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:397968
+FileModTime:1425365470
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Adam Gorry
+NameArray:0,Win,1,SVN-Adam Gorry
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-AgencyFBbold
+FamilyName:SVN-Agency FB
+StyleName:Bold
+FullName:SVN-Agency FB Bold
+MenuName:SVN-Agency FB
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Agency FB bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56312
+FileModTime:1426528838
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Agency FB Bold
+NameArray:0,Win,1,SVN-Agency FB
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-AgencyFB
+FamilyName:SVN-Agency FB
+StyleName:Regular
+FullName:SVN-Agency FB
+MenuName:SVN-Agency FB
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Agency FB.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57240
+FileModTime:1426528936
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Agency FB
+NameArray:0,Win,1,SVN-Agency FB
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-AgudaBlack
+FamilyName:SVN-Aguda
+StyleName:Black
+FullName:SVN-Aguda Black
+MenuName:SVN-Aguda Black
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Aguda Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:47196
+FileModTime:1437310144
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Aguda Black
+NameArray:0,Win,1,SVN-Aguda Black
+NameArray:0,Win,16,SVN-Aguda
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-AgudaBold
+FamilyName:SVN-Aguda
+StyleName:Bold
+FullName:SVN-Aguda Bold
+MenuName:SVN-Aguda
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Aguda Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:46204
+FileModTime:1437310794
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Aguda Bold
+NameArray:0,Win,1,SVN-Aguda
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-AgudaLight
+FamilyName:SVN-Aguda
+StyleName:Light
+FullName:SVN-Aguda Light
+MenuName:SVN-Aguda Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Aguda Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45572
+FileModTime:1437310454
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Aguda Light
+NameArray:0,Win,1,SVN-Aguda Light
+NameArray:0,Win,16,SVN-Aguda
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Aguda
+FamilyName:SVN-Aguda
+StyleName:Regular
+FullName:SVN-Aguda
+MenuName:SVN-Aguda
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Aguda Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:46184
+FileModTime:1437310626
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Aguda
+NameArray:0,Win,1,SVN-Aguda
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-AlekBold
+FamilyName:SVN-Alek
+StyleName:Bold
+FullName:SVN-Alek Bold
+MenuName:SVN-Alek
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Alek Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98176
+FileModTime:1430985246
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Alek Bold
+NameArray:0,Win,1,SVN-Alek
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-AlekOrnaments
+FamilyName:SVN-Alek Ornaments
+StyleName:Regular
+FullName:SVN-Alek Ornaments
+MenuName:SVN-Alek Ornaments
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Alek Ornaments.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:23568
+FileModTime:1430986012
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Alek Ornaments
+NameArray:0,Win,1,SVN-Alek Ornaments
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Alek
+FamilyName:SVN-Alek
+StyleName:Regular
+FullName:SVN-Alek
+MenuName:SVN-Alek
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Alek Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:96472
+FileModTime:1430981794
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Alek
+NameArray:0,Win,1,SVN-Alek
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-AleoBoldItalic
+FamilyName:SVN-Aleo
+StyleName:Bold Italic
+FullName:SVN-Aleo Bold Italic
+MenuName:SVN-Aleo
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Aleo Bold Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:78676
+FileModTime:1428856256
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Aleo Bold Italic
+NameArray:0,Win,1,SVN-Aleo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-AleoBold
+FamilyName:SVN-Aleo
+StyleName:Bold
+FullName:SVN-Aleo Bold
+MenuName:SVN-Aleo
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Aleo Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:122804
+FileModTime:1428823336
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Aleo Bold
+NameArray:0,Win,1,SVN-Aleo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-AleoItalic
+FamilyName:SVN-Aleo
+StyleName:Italic
+FullName:SVN-Aleo Italic
+MenuName:SVN-Aleo
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Aleo Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64512
+FileModTime:1437025844
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Aleo Italic
+NameArray:0,Win,1,SVN-Aleo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-AleoLightItalic
+FamilyName:SVN-Aleo
+StyleName:Light Italic
+FullName:SVN-Aleo Light Italic
+MenuName:SVN-Aleo
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Aleo Light Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:114400
+FileModTime:1428856282
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Aleo Light Italic
+NameArray:0,Win,1,SVN-Aleo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Amethyst(TT)
+FamilyName:SVN-Amethyst (TT)
+StyleName:Regular
+FullName:SVN-Amethyst (TT)
+MenuName:SVN-Amethyst (TT)
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Amethyst TrueType.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:789176
+FileModTime:1429364740
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Amethyst (TT)
+NameArray:0,Win,1,SVN-Amethyst (TT)
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Amethyst
+FamilyName:SVN-Amethyst
+StyleName:Regular
+FullName:SVN-Amethyst
+MenuName:SVN-Amethyst
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Amethyst.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:141228
+FileModTime:1429364300
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Amethyst
+NameArray:0,Win,1,SVN-Amethyst
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Amperzand
+FamilyName:SVN-Amperzand
+StyleName:Regular
+FullName:SVN-Amperzand
+MenuName:SVN-Amperzand
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Amperzand.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111900
+FileModTime:1371294594
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Amperzand
+NameArray:0,Win,1,SVN-Amperzand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Anastasia
+FamilyName:SVN-Anastasia
+StyleName:Regular
+FullName:SVN-Anastasia
+MenuName:SVN-Anastasia
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Anastasia.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:244300
+FileModTime:1425983914
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Anastasia
+NameArray:0,Win,1,SVN-Anastasia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Androgyne
+FamilyName:SVN-Androgyne
+StyleName:Regular
+FullName:SVN-Androgyne
+MenuName:SVN-Androgyne
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Androgyne.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:143852
+FileModTime:1429598830
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Androgyne
+NameArray:0,Win,1,SVN-Androgyne
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Angely
+FamilyName:SVN-Angely
+StyleName:Regular
+FullName:SVN-Angely
+MenuName:SVN-Angely
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Angely.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:308416
+FileModTime:1434600554
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Angely
+NameArray:0,Win,1,SVN-Angely
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Apple
+FamilyName:SVN-Apple
+StyleName:Regular
+FullName:SVN-Apple
+MenuName:SVN-Apple
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Apple.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:73460
+FileModTime:1436366714
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Apple
+NameArray:0,Win,1,SVN-Apple
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Appleberry
+FamilyName:SVN-Appleberry
+StyleName:Regular
+FullName:SVN-Appleberry
+MenuName:SVN-Appleberry
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Appleberry.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:613044
+FileModTime:1429603770
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Appleberry
+NameArray:0,Win,1,SVN-Appleberry
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Aptimabolditalic
+FamilyName:SVN-Aptima
+StyleName:Bold Italic
+FullName:SVN-Aptimabolditalic
+MenuName:SVN-Aptima
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Aptima bold italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:85772
+FileModTime:1360501836
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Aptimabolditalic
+NameArray:0,Win,1,SVN-Aptima
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Aptimabold
+FamilyName:SVN-Aptima
+StyleName:Bold
+FullName:SVN-Aptimabold
+MenuName:SVN-Aptima
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Aptima bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88272
+FileModTime:1360498500
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Aptimabold
+NameArray:0,Win,1,SVN-Aptima
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-AptimaItalic
+FamilyName:SVN-Aptima
+StyleName:Italic
+FullName:SVN-AptimaItalic
+MenuName:SVN-Aptima
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Aptima italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89024
+FileModTime:1423642750
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-AptimaItalic
+NameArray:0,Win,1,SVN-Aptima
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Aptima
+FamilyName:SVN-Aptima
+StyleName:Regular
+FullName:SVN-Aptima
+MenuName:SVN-Aptima
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Aptima.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:84020
+FileModTime:1360463440
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Aptima
+NameArray:0,Win,1,SVN-Aptima
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Archaic1897
+FamilyName:SVN-Archaic 1897
+StyleName:Regular
+FullName:SVN-Archaic 1897
+MenuName:SVN-Archaic 1897
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Archaic 1897.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:242576
+FileModTime:1437753148
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Archaic 1897
+NameArray:0,Win,1,SVN-Archaic 1897
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Arial2bolditalic
+FamilyName:SVN-Arial 2
+StyleName:Bold Italic
+FullName:SVN-Arial 2 bold italic
+MenuName:SVN-Arial 2
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Arial 2 bold italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71400
+FileModTime:1361075222
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Arial 2 bold italic
+NameArray:0,Win,1,SVN-Arial 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Arial2bold
+FamilyName:SVN-Arial 2
+StyleName:Bold
+FullName:SVN-Arial 2 bold
+MenuName:SVN-Arial 2
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Arial 2 bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71380
+FileModTime:1361075238
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Arial 2 bold
+NameArray:0,Win,1,SVN-Arial 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Arial2italic
+FamilyName:SVN-Arial 2
+StyleName:Italic
+FullName:SVN-Arial 2 italic
+MenuName:SVN-Arial 2
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Arial 2 italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:72868
+FileModTime:1361073484
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Arial 2 italic
+NameArray:0,Win,1,SVN-Arial 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Arial2
+FamilyName:SVN-Arial 2
+StyleName:Regular
+FullName:SVN-Arial 2
+MenuName:SVN-Arial 2
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Arial 2.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:69212
+FileModTime:1361073520
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Arial 2
+NameArray:0,Win,1,SVN-Arial 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Arial3bolditalic
+FamilyName:SVN-Arial 3
+StyleName:Bold Italic
+FullName:SVN-Arial 3 bold italic
+MenuName:SVN-Arial 3
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Arial 3 bold italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:80372
+FileModTime:1361110940
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Arial 3 bold italic
+NameArray:0,Win,1,SVN-Arial 3
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Arial3bold
+FamilyName:SVN-Arial 3
+StyleName:Bold
+FullName:SVN-Arial 3 bold
+MenuName:SVN-Arial 3
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Arial 3 bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:79980
+FileModTime:1361106412
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Arial 3 bold
+NameArray:0,Win,1,SVN-Arial 3
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Arial3italic
+FamilyName:SVN-Arial 3
+StyleName:Italic
+FullName:SVN-Arial 3 italic
+MenuName:SVN-Arial 3
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Arial 3 itlaic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:84012
+FileModTime:1361148692
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Arial 3 italic
+NameArray:0,Win,1,SVN-Arial 3
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Arial3
+FamilyName:SVN-Arial 3
+StyleName:Regular
+FullName:SVN-Arial 3
+MenuName:SVN-Arial 3
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Arial 3.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:80404
+FileModTime:1361146412
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Arial 3
+NameArray:0,Win,1,SVN-Arial 3
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-ArialBoldItalic
+FamilyName:SVN-Arial
+StyleName:Bold Italic
+FullName:SVN-ArialBoldItalic
+MenuName:SVN-Arial
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Arial Bold Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70768
+FileModTime:1426836418
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-ArialBoldItalic
+NameArray:0,Win,1,SVN-Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-ArialBold
+FamilyName:SVN-Arial
+StyleName:SVN-Arial
+FullName:SVN-Arial Bold
+MenuName:SVN-Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Arial Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:69252
+FileModTime:1426836448
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,SVN-Arial
+NameArray:0,Mac,4,SVN-Arial Bold
+NameArray:0,Win,1,SVN-Arial
+NameArray:0,Win,16,SVN-Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-ArialItalic
+FamilyName:SVN-Arial
+StyleName:Italic
+FullName:SVN-Arial Italic
+MenuName:SVN-Arial
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Arial Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:72320
+FileModTime:1426836506
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Arial Italic
+NameArray:0,Win,1,SVN-Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-ArialRegular
+FamilyName:SVN-Arial
+StyleName:Regular
+FullName:SVN-Arial Regular
+MenuName:SVN-Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Arial Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:68692
+FileModTime:1426836620
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Arial Regular
+NameArray:0,Win,1,SVN-Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Athena
+FamilyName:SVN-Athena
+StyleName:Regular
+FullName:SVN-Athena
+MenuName:SVN-Athena
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Athena.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:95288
+FileModTime:1371292696
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Athena
+NameArray:0,Win,1,SVN-Athena
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Avengeance
+FamilyName:SVN-Avengeance
+StyleName:Regular
+FullName:SVN-Avengeance
+MenuName:SVN-Avengeance
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Avengeance.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:54088
+FileModTime:1436507646
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Avengeance
+NameArray:0,Win,1,SVN-Avengeance
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Avobolditalic
+FamilyName:SVN-Avo
+StyleName:Bold Italic
+FullName:SVN-Avo bold talic
+MenuName:SVN-Avo
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Avo bold italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:69712
+FileModTime:1361273950
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Avo bold talic
+NameArray:0,Win,1,SVN-Avo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Avobold
+FamilyName:SVN-Avo
+StyleName:Bold
+FullName:SVN-Avobold
+MenuName:SVN-Avo
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Avo bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:73676
+FileModTime:1361243432
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Avobold
+NameArray:0,Win,1,SVN-Avo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Avoitalic
+FamilyName:SVN-Avo
+StyleName:Italic
+FullName:SVN-Avo italic
+MenuName:SVN-Avo
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Avo italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:72740
+FileModTime:1361243530
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Avo italic
+NameArray:0,Win,1,SVN-Avo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Avo
+FamilyName:SVN-Avo
+StyleName:Regular
+FullName:SVN-Avo
+MenuName:SVN-Avo
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Avo.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:72160
+FileModTime:1361243488
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Avo
+NameArray:0,Win,1,SVN-Avo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-BallareaTypeface
+FamilyName:SVN-Ballarea Typeface
+StyleName:Regular
+FullName:SVN-Ballarea Typeface
+MenuName:SVN-Ballarea Typeface
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Ballarea Typeface.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:220116
+FileModTime:1434203218
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Ballarea Typeface
+NameArray:0,Win,1,SVN-Ballarea Typeface
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Bear
+FamilyName:SVN-Bear
+StyleName:Regular
+FullName:SVN-Bear
+MenuName:SVN-Bear
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Bear.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:142996
+FileModTime:1371302262
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Bear
+NameArray:0,Win,1,SVN-Bear
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Beast
+FamilyName:SVN-Beast
+StyleName:Regular
+FullName:SVN-Beast
+MenuName:SVN-Beast
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Beast.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:65536
+FileModTime:1340121054
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Beast
+NameArray:0,Win,1,SVN-Beast
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Bellwethers
+FamilyName:SVN-Bellwethers
+StyleName:Regular
+FullName:SVN-Bellwethers
+MenuName:SVN-Bellwethers
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Bellwethers.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:233348
+FileModTime:1434276248
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Bellwethers
+NameArray:0,Win,1,SVN-Bellwethers
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Beloved
+FamilyName:SVN-Beloved
+StyleName:Regular
+FullName:SVN-Beloved
+MenuName:SVN-Beloved
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Beloved.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:49136
+FileModTime:1434934860
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Beloved
+NameArray:0,Win,1,SVN-Beloved
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-BershireSwash
+FamilyName:SVN-Bershire Swash
+StyleName:Regular
+FullName:SVN-Bershire Swash
+MenuName:SVN-Bershire Swash
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Berkshire Swash.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:144084
+FileModTime:1424133016
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Bershire Swash
+NameArray:0,Win,1,SVN-Bershire Swash
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Billo
+FamilyName:SVN-Billo
+StyleName:Regular
+FullName:SVN-Billo
+MenuName:SVN-Billo
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Billo.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:79188
+FileModTime:1371294294
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Billo
+NameArray:0,Win,1,SVN-Billo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Bira
+FamilyName:SVN-Bira
+StyleName:Regular
+FullName:SVN-Bira
+MenuName:SVN-Bira
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Bira.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:76468
+FileModTime:1429596018
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Bira
+NameArray:0,Win,1,SVN-Bira
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-BirthOfAHero
+FamilyName:SVN-Birth Of A Hero
+StyleName:Regular
+FullName:SVN-Birth Of A Hero
+MenuName:SVN-Birth Of A Hero
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Birth Of A Hero.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:401992
+FileModTime:1426147312
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Birth Of A Hero
+NameArray:0,Win,1,SVN-Birth Of A Hero
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-BistroScript
+FamilyName:SVN-Bistro Script
+StyleName:Regular
+FullName:SVN-Bistro Script
+MenuName:SVN-Bistro Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Bistro Script.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:51104
+FileModTime:1436974550
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Bistro Script
+NameArray:0,Win,1,SVN-Bistro Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-BladeRunner
+FamilyName:SVN-Blade Runner
+StyleName:Regular
+FullName:SVN-Blade Runner
+MenuName:SVN-Blade Runner
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Blade runner.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62516
+FileModTime:1370807860
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Blade Runner
+NameArray:0,Win,1,SVN-Blade Runner
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Block
+FamilyName:SVN-Block
+StyleName:Regular
+FullName:SVN-Block
+MenuName:SVN-Block
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Block.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:80432
+FileModTime:1338459486
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Block
+NameArray:0,Win,1,SVN-Block
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Blue
+FamilyName:SVN-Blue
+StyleName:Regular
+FullName:SVN-Blue
+MenuName:SVN-Blue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Blue.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64404
+FileModTime:1341289704
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Blue
+NameArray:0,Win,1,SVN-Blue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-BookAntiquabolditalic
+FamilyName:SVN-Book Antiqua
+StyleName:Bold Italic
+FullName:SVN-Book Antiqua bold italic
+MenuName:SVN-Book Antiqua
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Book Antiqua bold italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:100840
+FileModTime:1361501454
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Book Antiqua bold italic
+NameArray:0,Win,1,SVN-Book Antiqua
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-BookAntiquabold
+FamilyName:SVN-Book Antiqua
+StyleName:Bold
+FullName:SVN-Book Antiqua bold
+MenuName:SVN-Book Antiqua
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Book Antiqua bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:107380
+FileModTime:1361501406
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Book Antiqua bold
+NameArray:0,Win,1,SVN-Book Antiqua
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-BookAntiquaitalic
+FamilyName:SVN-Book Antiqua
+StyleName:Italic
+FullName:SVN-Book Antiqua italic
+MenuName:SVN-Book Antiqua
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Book Antiqua italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:105364
+FileModTime:1361501494
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Book Antiqua italic
+NameArray:0,Win,1,SVN-Book Antiqua
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-BookAntiqua
+FamilyName:SVN-Book Antiqua
+StyleName:Regular
+FullName:SVN-Book Antiqua
+MenuName:SVN-Book Antiqua
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Book Antiqua.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:102816
+FileModTime:1361501370
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Book Antiqua
+NameArray:0,Win,1,SVN-Book Antiqua
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-BradleyHand
+FamilyName:SVN-Bradley Hand
+StyleName:Regular
+FullName:SVN-Bradley Hand
+MenuName:SVN-Bradley Hand
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Bradley Hand.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:204076
+FileModTime:1371294246
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Bradley Hand
+NameArray:0,Win,1,SVN-Bradley Hand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-BruseloScript
+FamilyName:SVN-Bruselo Script
+StyleName:Regular
+FullName:SVN-Bruselo Script
+MenuName:SVN-Bruselo Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Bruselo Script.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:115804
+FileModTime:1437908212
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Bruselo Script
+NameArray:0,Win,1,SVN-Bruselo Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Bulgary
+FamilyName:SVN-Bulgary
+StyleName:Regular
+FullName:SVN-Bulgary
+MenuName:SVN-Bulgary
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Bulgary.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59992
+FileModTime:1435729096
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Bulgary
+NameArray:0,Win,1,SVN-Bulgary
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-CafeLounge19
+FamilyName:SVN-Cafe Lounge 19
+StyleName:Regular
+FullName:SVN-Cafe Lounge 19
+MenuName:SVN-Cafe Lounge 19
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Cafe Lounge 19.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:82348
+FileModTime:1425362992
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Cafe Lounge 19
+NameArray:0,Win,1,SVN-Cafe Lounge 19
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-CapricaScript
+FamilyName:SVN-Caprica Script
+StyleName:Regular
+FullName:SVN-Caprica Script
+MenuName:SVN-Caprica Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Caprica Script.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:327708
+FileModTime:1433052228
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Caprica Script
+NameArray:0,Win,1,SVN-Caprica Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Carington
+FamilyName:SVN-Carington
+StyleName:Regular
+FullName:SVN-Carington
+MenuName:SVN-Carington
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Carington.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:142700
+FileModTime:1341138148
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Carington
+NameArray:0,Win,1,SVN-Carington
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-CattleyaScript
+FamilyName:SVN-Cattleya Script
+StyleName:regular
+FullName:SVN-Cattleya Script
+MenuName:SVN-Cattleya Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Cattleya Script.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:75840
+FileModTime:1438831294
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Cattleya Script
+NameArray:0,Win,1,SVN-Cattleya Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Channel
+FamilyName:SVN-Channel
+StyleName:Regular
+FullName:SVN-Channel
+MenuName:SVN-Channel
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Channel.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:100568
+FileModTime:1429596542
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Channel
+NameArray:0,Win,1,SVN-Channel
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-ChopinScript
+FamilyName:SVN-Chopin Script
+StyleName:Regular
+FullName:SVN-Chopin Script
+MenuName:SVN-Chopin Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Chopin Script.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:51348
+FileModTime:1506250840
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Chopin Script
+NameArray:0,Win,1,SVN-Chopin Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Clementine
+FamilyName:SVN-Clementine
+StyleName:Regular
+FullName:SVN-Clementine
+MenuName:SVN-Clementine
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Clementine.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:147136
+FileModTime:1440509556
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Clementine
+NameArray:0,Win,1,SVN-Clementine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-CocoFY
+FamilyName:SVN-Coco FY
+StyleName:Regular
+FullName:SVN-Coco FY
+MenuName:SVN-Coco FY
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Coco FY.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:316800
+FileModTime:1445761128
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Coco FY
+NameArray:0,Win,1,SVN-Coco FY
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-ComicSansMS
+FamilyName:SVN-Comic Sans MS
+StyleName:Regular
+FullName:SVN-Comic Sans MS
+MenuName:SVN-Comic Sans MS
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Comic Sans MS.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101820
+FileModTime:1425453712
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Comic Sans MS
+NameArray:0,Win,1,SVN-Comic Sans MS
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Cookie
+FamilyName:SVN-Cookie
+StyleName:Regular
+FullName:SVN-Cookie
+MenuName:SVN-Cookie
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Cookie.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119260
+FileModTime:1424500866
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Cookie
+NameArray:0,Win,1,SVN-Cookie
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Cookies
+FamilyName:SVN-Cookies
+StyleName:Regular
+FullName:SVN-Cookies
+MenuName:SVN-Cookies
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Cookies.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:108516
+FileModTime:1346385444
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Cookies
+NameArray:0,Win,1,SVN-Cookies
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Corki
+FamilyName:SVN-Corki
+StyleName:Regular
+FullName:SVN-Corki 
+MenuName:SVN-Corki
+StyleBits:0
+FamilyNameNative:SVN-Corki
+StyleNameNative:Regular
+FullNameNative:SVN-Corki Regular
+WritingScript:Cyrillic
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Corki Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:52460
+FileModTime:1429679770
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Corki 
+NameArray:0,Win,1,SVN-Corki
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-CorkiRounded
+FamilyName:SVN-Corki
+StyleName:Rounded
+FullName:SVN-Corki Rounded
+MenuName:SVN-Corki Rounded
+StyleBits:0
+FamilyNameNative:SVN-Corki
+StyleNameNative:Rounded
+FullNameNative:SVN-Corki Rounded
+WritingScript:Cyrillic
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Corki Rounded.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70564
+FileModTime:1429678380
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Corki Rounded
+NameArray:0,Win,1,SVN-Corki Rounded
+NameArray:0,Win,16,SVN-Corki
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-CorkiTuscanRounded
+FamilyName:SVN-Corki
+StyleName:Tuscan Rounded
+FullName:SVN-Corki Tuscan Rounded
+MenuName:SVN-Corki Tuscan Rounded
+StyleBits:0
+FamilyNameNative:SVN-Corki
+StyleNameNative:Tuscan Rounded
+FullNameNative:SVN-Corki Tuscan Rounded
+WritingScript:Cyrillic
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Corki Tuscan Rounded.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61984
+FileModTime:1429629724
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Corki Tuscan Rounded
+NameArray:0,Win,1,SVN-Corki Tuscan Rounded
+NameArray:0,Win,16,SVN-Corki
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-CorkiTuscan
+FamilyName:SVN-Corki
+StyleName:Tuscan
+FullName:SVN-Corki Tuscan
+MenuName:SVN-Corki Tuscan
+StyleBits:0
+FamilyNameNative:SVN-Corki
+StyleNameNative:Tuscan
+FullNameNative:SVN-Corki Tuscan
+WritingScript:Cyrillic
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Corki Tuscan.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:46532
+FileModTime:1429632742
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Corki Tuscan
+NameArray:0,Win,1,SVN-Corki Tuscan
+NameArray:0,Win,16,SVN-Corki
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-DKClochard
+FamilyName:SVN-DK Clochard
+StyleName:Regular
+FullName:SVN-DK Clochard
+MenuName:SVN-DK Clochard
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-DK Clochard.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88412
+FileModTime:1437283862
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-DK Clochard
+NameArray:0,Win,1,SVN-DK Clochard
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-DancingScript
+FamilyName:SVN-Dancing Script
+StyleName:Regular
+FullName:SVN-Dancing Script
+MenuName:SVN-Dancing Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Dancing script.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:115704
+FileModTime:1377944228
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Dancing Script
+NameArray:0,Win,1,SVN-Dancing Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Darleston
+FamilyName:SVN-Darleston
+StyleName:Regular
+FullName:SVN-Darleston
+MenuName:SVN-Darleston
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Darleston.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35728
+FileModTime:1436625212
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Darleston
+NameArray:0,Win,1,SVN-Darleston
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-DessertMenuScript
+FamilyName:SVN-Dessert Menu Script
+StyleName:Regular
+FullName:SVN-Dessert Menu Script
+MenuName:SVN-Dessert Menu Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Dessert Menu Script.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:413776
+FileModTime:1446474272
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Dessert Menu Script
+NameArray:0,Win,1,SVN-Dessert Menu Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-EffraItalic
+FamilyName:SVN-Effra
+StyleName:Italic
+FullName:SVN-Effra Italic
+MenuName:SVN-Effra
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Effra Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:128276
+FileModTime:1444889112
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Effra Italic
+NameArray:0,Win,1,SVN-Effra
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Effra
+FamilyName:SVN-Effra
+StyleName:Regular
+FullName:SVN-Effra
+MenuName:SVN-Effra
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Effra.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:113240
+FileModTime:1443356280
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Effra
+NameArray:0,Win,1,SVN-Effra
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-ElleNovaCExtraLight
+FamilyName:SVN-Elle NovaC Extra Light
+StyleName:Regular
+FullName:SVN-Elle NovaC Extra Light
+MenuName:SVN-Elle NovaC Extra Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Elle NovaC Extra Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58208
+FileModTime:1424743618
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Elle NovaC Extra Light
+NameArray:0,Win,1,SVN-Elle NovaC Extra Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-EndlessSorrowCatchwords
+FamilyName:SVN-Endless Sorrow Catchwords
+StyleName:Catchwords
+FullName:SVN-Endless Sorrow Catchwords
+MenuName:SVN-Endless Sorrow Catchwords
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Endless Sorrow Catchword.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28636
+FileModTime:1430899260
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Endless Sorrow Catchwords
+NameArray:0,Win,1,SVN-Endless Sorrow Catchwords
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-EndlessSorrow
+FamilyName:SVN-Endless Sorrow
+StyleName:Regular
+FullName:SVN-Endless Sorrow
+MenuName:SVN-Endless Sorrow
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Endless Sorrow.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:40392
+FileModTime:1430899058
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Endless Sorrow
+NameArray:0,Win,1,SVN-Endless Sorrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-FFFTusj
+FamilyName:SVN-FFF Tusj
+StyleName:Regular
+FullName:SVN-FFF Tusj
+MenuName:SVN-FFF Tusj
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-FFF Tusj.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2409148
+FileModTime:1582936046
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,FFF Tusj Bold
+NameArray:0,Mac,4,SVN-FFF Tusj
+NameArray:0,Win,1,SVN-FFF Tusj
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-FiolexGirls
+FamilyName:SVN-Fiolex Girls
+StyleName:Regular
+FullName:SVN-Fiolex Girls
+MenuName:SVN-Fiolex Girls
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Fiolex Girls.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:180844
+FileModTime:1425448910
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Fiolex Girls
+NameArray:0,Win,1,SVN-Fiolex Girls
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-FlamingoScript
+FamilyName:SVN-Flamingo Script
+StyleName:Regular
+FullName:SVN-Flamingo Script
+MenuName:SVN-Flamingo Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Flamingo Script.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:195996
+FileModTime:1445612036
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Flamingo Script
+NameArray:0,Win,1,SVN-Flamingo Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Franko
+FamilyName:SVN-Franko
+StyleName:Regular
+FullName:SVN-Franko
+MenuName:SVN-Franko
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Franko.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:73636
+FileModTime:1359810032
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Franko
+NameArray:0,Win,1,SVN-Franko
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GenicaPro
+FamilyName:SVN-Genica Pro
+StyleName:Regular
+FullName:SVN-Genica Pro
+MenuName:SVN-Genica Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Genica Pro.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:77208
+FileModTime:1438840266
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Genica Pro
+NameArray:0,Win,1,SVN-Genica Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GeorgiaBoldItalic
+FamilyName:SVN-Georgia
+StyleName:Bold Italic
+FullName:SVN-Georgia Bold Italic
+MenuName:SVN-Georgia
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Georgia Bold Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:172648
+FileModTime:1432449402
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Georgia Bold Italic
+NameArray:0,Win,1,SVN-Georgia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GeorgiaBold
+FamilyName:SVN-Georgia
+StyleName:Bold
+FullName:SVN-Georgia Bold
+MenuName:SVN-Georgia
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Georgia Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:169800
+FileModTime:1432449274
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Georgia Bold
+NameArray:0,Win,1,SVN-Georgia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GeorgiaItalic
+FamilyName:SVN-Georgia
+StyleName:Italic
+FullName:SVN-Georgia Italic
+MenuName:SVN-Georgia
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Georgia Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:169360
+FileModTime:1432448758
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Georgia Italic
+NameArray:0,Win,1,SVN-Georgia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Georgia
+FamilyName:SVN-Georgia
+StyleName:Regular
+FullName:SVN-Georgia
+MenuName:SVN-Georgia
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Georgia Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:168348
+FileModTime:1432448642
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Georgia
+NameArray:0,Win,1,SVN-Georgia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Gidry
+FamilyName:SVN-Gidry
+StyleName:Regular
+FullName:SVN-Gidry
+MenuName:SVN-Gidry
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gidry.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:174116
+FileModTime:1361338508
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Gidry
+NameArray:0,Win,1,SVN-Gidry
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyBlackItalic
+FamilyName:SVN-Gilroy
+StyleName:Black Italic
+FullName:SVN-Gilroy Black Italic
+MenuName:SVN-Gilroy Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Black Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:107104
+FileModTime:1480917003
+WeightClass:1000
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Gilroy Black Italic
+NameArray:0,Win,1,SVN-Gilroy Black
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyBlack
+FamilyName:SVN-Gilroy
+StyleName:Black
+FullName:SVN-Gilroy Black
+MenuName:SVN-Gilroy Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:104096
+FileModTime:1480916988
+WeightClass:1000
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Gilroy Black
+NameArray:0,Win,1,SVN-Gilroy Black
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyBoldItalic
+FamilyName:SVN-Gilroy
+StyleName:Bold Italic
+FullName:SVN-Gilroy Bold Italic
+MenuName:SVN-Gilroy
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Bold Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:104924
+FileModTime:1480916966
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Gilroy Bold Italic
+NameArray:0,Win,1,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyBold
+FamilyName:SVN-Gilroy
+StyleName:Bold
+FullName:SVN-Gilroy Bold
+MenuName:SVN-Gilroy
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:102104
+FileModTime:1480916978
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Gilroy Bold
+NameArray:0,Win,1,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyHeavyItalic
+FamilyName:SVN-Gilroy
+StyleName:Heavy Italic
+FullName:SVN-Gilroy Heavy Italic
+MenuName:SVN-Gilroy Heavy
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Heavy Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:107468
+FileModTime:1480916907
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Gilroy Heavy Italic
+NameArray:0,Win,1,SVN-Gilroy Heavy
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyHeavy
+FamilyName:SVN-Gilroy
+StyleName:Heavy
+FullName:SVN-Gilroy Heavy
+MenuName:SVN-Gilroy Heavy
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:104596
+FileModTime:1480916889
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Gilroy Heavy
+NameArray:0,Win,1,SVN-Gilroy Heavy
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyItalic
+FamilyName:SVN-Gilroy
+StyleName:Italic
+FullName:SVN-Gilroy Italic
+MenuName:SVN-Gilroy
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:100144
+FileModTime:1480916762
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Gilroy Italic
+NameArray:0,Win,1,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyLightItalic
+FamilyName:SVN-Gilroy
+StyleName:Light Italic
+FullName:SVN-Gilroy Light Italic
+MenuName:SVN-Gilroy Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Light Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:100392
+FileModTime:1480917561
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Gilroy Light Italic
+NameArray:0,Win,1,SVN-Gilroy Light
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyLight
+FamilyName:SVN-Gilroy
+StyleName:Light
+FullName:SVN-Gilroy Light
+MenuName:SVN-Gilroy Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97304
+FileModTime:1480916862
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Gilroy Light
+NameArray:0,Win,1,SVN-Gilroy Light
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyMediumItalic
+FamilyName:SVN-Gilroy
+StyleName:Medium Italic
+FullName:SVN-Gilroy Medium Italic
+MenuName:SVN-Gilroy Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Medium Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:104628
+FileModTime:1480916809
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Gilroy Medium Italic
+NameArray:0,Win,1,SVN-Gilroy Medium
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyMedium
+FamilyName:SVN-Gilroy
+StyleName:Medium
+FullName:SVN-Gilroy Medium
+MenuName:SVN-Gilroy Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:100732
+FileModTime:1480916836
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Gilroy Medium
+NameArray:0,Win,1,SVN-Gilroy Medium
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Gilroy
+FamilyName:SVN-Gilroy
+StyleName:Regular
+FullName:SVN-Gilroy
+MenuName:SVN-Gilroy
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97732
+FileModTime:1480916779
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Gilroy
+NameArray:0,Win,1,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroySemiBoldItalic
+FamilyName:SVN-Gilroy
+StyleName:SemiBold Italic
+FullName:SVN-Gilroy SemiBold Italic
+MenuName:SVN-Gilroy SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy SemiBold Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:102660
+FileModTime:1480916727
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Gilroy SemiBold Italic
+NameArray:0,Win,1,SVN-Gilroy SemiBold
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroySemiBold
+FamilyName:SVN-Gilroy
+StyleName:SemiBold
+FullName:SVN-Gilroy SemiBold
+MenuName:SVN-Gilroy SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101664
+FileModTime:1480916739
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Gilroy SemiBold
+NameArray:0,Win,1,SVN-Gilroy SemiBold
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyThinItalic
+FamilyName:SVN-Gilroy
+StyleName:Thin Italic
+FullName:SVN-Gilroy Thin Italic
+MenuName:SVN-Gilroy Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Thin Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:99112
+FileModTime:1480916685
+WeightClass:100
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Gilroy Thin Italic
+NameArray:0,Win,1,SVN-Gilroy Thin
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyThin
+FamilyName:SVN-Gilroy
+StyleName:Thin
+FullName:SVN-Gilroy Thin
+MenuName:SVN-Gilroy Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:96700
+FileModTime:1480916698
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Gilroy Thin
+NameArray:0,Win,1,SVN-Gilroy Thin
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyXBoldItalic
+FamilyName:SVN-Gilroy
+StyleName:XBold Italic
+FullName:SVN-Gilroy XBold Italic
+MenuName:SVN-Gilroy XBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy XBold Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:103692
+FileModTime:1480916930
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Gilroy XBold Italic
+NameArray:0,Win,1,SVN-Gilroy XBold
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyXBold
+FamilyName:SVN-Gilroy
+StyleName:XBold
+FullName:SVN-Gilroy XBold
+MenuName:SVN-Gilroy XBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy XBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101428
+FileModTime:1480916943
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Gilroy XBold
+NameArray:0,Win,1,SVN-Gilroy XBold
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyXLightItalic
+FamilyName:SVN-Gilroy
+StyleName:XLight Italic
+FullName:SVN-Gilroy XLight Italic
+MenuName:SVN-Gilroy XLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Xlight Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101176
+FileModTime:1480916624
+WeightClass:265
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Gilroy XLight Italic
+NameArray:0,Win,1,SVN-Gilroy XLight
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-GilroyXLight
+FamilyName:SVN-Gilroy
+StyleName:XLight
+FullName:SVN-Gilroy XLight
+MenuName:SVN-Gilroy XLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gilroy Xlight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97940
+FileModTime:1480916600
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Gilroy XLight
+NameArray:0,Win,1,SVN-Gilroy XLight
+NameArray:0,Win,16,SVN-Gilroy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-GoodDog
+FamilyName:SVN-Good Dog
+StyleName:Regular
+FullName:SVN-Good Dog
+MenuName:SVN-Good Dog
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Good Dog.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88180
+FileModTime:1370810632
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Good Dog
+NameArray:0,Win,1,SVN-Good Dog
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Gretoon
+FamilyName:SVN-Gretoon
+StyleName:Regular
+FullName:SVN-Gretoon
+MenuName:SVN-Gretoon
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Gretoon.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:166612
+FileModTime:1350024448
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Gretoon
+NameArray:0,Win,1,SVN-Gretoon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-GroceryRounded
+FamilyName:SVN-Grocery Rounded
+StyleName:Regular
+FullName:SVN-Grocery Rounded
+MenuName:SVN-Grocery Rounded
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Grocery Rounded.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:142392
+FileModTime:1426226768
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Grocery Rounded
+NameArray:0,Win,1,SVN-Grocery Rounded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-HapticScript
+FamilyName:SVN-Haptic Script
+StyleName:Regular
+FullName:SVN-Haptic Script
+MenuName:SVN-Haptic Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Haptic Script.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:327840
+FileModTime:1440753454
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Haptic Script
+NameArray:0,Win,1,SVN-Haptic Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Harabaras
+FamilyName:SVN-Harabaras
+StyleName:Regular
+FullName:SVN-Harabaras
+MenuName:SVN-Harabaras
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Harabaras.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:66064
+FileModTime:1371294054
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Harabaras
+NameArray:0,Win,1,SVN-Harabaras
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Helga
+FamilyName:SVN-Helga
+StyleName:Regular
+FullName:SVN-Helga
+MenuName:SVN-Helga
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Helga.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60824
+FileModTime:1431067328
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Helga
+NameArray:0,Win,1,SVN-Helga
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Helvesbolditalic
+FamilyName:SVN-Helves
+StyleName:Bold Italic
+FullName:SVN-Helves bold italic
+MenuName:SVN-Helves
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Helves bold italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74648
+FileModTime:1361500474
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Helves bold italic
+NameArray:0,Win,1,SVN-Helves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Helvesbold
+FamilyName:SVN-Helves
+StyleName:Bold
+FullName:SVN-Helves bold
+MenuName:SVN-Helves
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Helves bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:80796
+FileModTime:1361532500
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Helves bold
+NameArray:0,Win,1,SVN-Helves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Helvesitalic
+FamilyName:SVN-Helves
+StyleName:Italic
+FullName:SVN-Helvesitalic
+MenuName:SVN-Helves
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Helves italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74216
+FileModTime:1361500542
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Helvesitalic
+NameArray:0,Win,1,SVN-Helves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Helves
+FamilyName:SVN-Helves
+StyleName:Regular
+FullName:SVN-Helves
+MenuName:SVN-Helves
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Helves.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:76636
+FileModTime:1361501250
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Helves
+NameArray:0,Win,1,SVN-Helves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-HelveticaNeueBoldItalic
+FamilyName:SVN-Helvetica Neue
+StyleName:Bold Italic
+FullName:SVN-Helvetica Neue Bold Italic
+MenuName:SVN-Helvetica Neue
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Helvetica Neue Bold Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:106384
+FileModTime:1424047894
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Helvetica Neue Bold Italic
+NameArray:0,Win,1,SVN-Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-HelveticaNeueBold
+FamilyName:SVN-Helvetica Neue
+StyleName:Bold
+FullName:SVN-Helvetica Neue Bold
+MenuName:SVN-Helvetica Neue
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Helvetica Neue Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101968
+FileModTime:1424047872
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Helvetica Neue Bold
+NameArray:0,Win,1,SVN-Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-HelveticaNeueHeavy
+FamilyName:SVN-Helvetica Neue Heavy
+StyleName:Regular
+FullName:SVN-Helvetica Neue Heavy
+MenuName:SVN-Helvetica Neue Heavy
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Helvetica Neue Heavy.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101748
+FileModTime:1424047854
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Helvetica Neue Heavy
+NameArray:0,Win,1,SVN-Helvetica Neue Heavy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-HelveticaNeueItalic
+FamilyName:SVN-Helvetica Neue
+StyleName:Italic
+FullName:SVN-Helvetica Neue Italic
+MenuName:SVN-Helvetica Neue
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Helvetica Neue Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:104768
+FileModTime:1424047832
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Helvetica Neue Italic
+NameArray:0,Win,1,SVN-Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-HelveticaNeueLight
+FamilyName:SVN-Helvetica Neue Light
+StyleName:Regular
+FullName:SVN-Helvetica Neue Light
+MenuName:SVN-Helvetica Neue Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Helvetica Neue Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101184
+FileModTime:1424047808
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Helvetica Neue Light
+NameArray:0,Win,1,SVN-Helvetica Neue Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-HelveticaNeue
+FamilyName:SVN-Helvetica Neue
+StyleName:Regular
+FullName:SVN-Helvetica Neue
+MenuName:SVN-Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Helvetica Neue.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:103696
+FileModTime:1424047766
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Helvetica Neue
+NameArray:0,Win,1,SVN-Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-HemiHead
+FamilyName:SVN-Hemi Head
+StyleName:Regular
+FullName:SVN-Hemi Head
+MenuName:SVN-Hemi Head
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Hemi Head.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61688
+FileModTime:1370814266
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Hemi Head
+NameArray:0,Win,1,SVN-Hemi Head
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-HoleHearted
+FamilyName:SVN-Hole Hearted
+StyleName:Regular
+FullName:SVN-Hole Hearted
+MenuName:SVN-Hole Hearted
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Hole Hearted.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:106328
+FileModTime:1425452138
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Hole Hearted
+NameArray:0,Win,1,SVN-Hole Hearted
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Holidays
+FamilyName:SVN-Holidays
+StyleName:Regular
+FullName:SVN-Holidays
+MenuName:SVN-Holidays
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Holidays.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94828
+FileModTime:1371294014
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Holidays
+NameArray:0,Win,1,SVN-Holidays
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-HollieScriptPro
+FamilyName:SVN-Hollie Script Pro
+StyleName:Regular
+FullName:SVN-Hollie Script Pro
+MenuName:SVN-Hollie Script Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Hollie Script Pro.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1787192
+FileModTime:1582936048
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Hollie Script Pro
+NameArray:0,Win,1,SVN-Hollie Script Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Hollycakes
+FamilyName:SVN-Hollycakes
+StyleName:Regular
+FullName:SVN-Hollycakes
+MenuName:SVN-Hollycakes
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Hollycakes.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:176860
+FileModTime:1430748300
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Hollycakes
+NameArray:0,Mac,4,SVN-Hollycakes
+NameArray:0,Win,1,SVN-Hollycakes
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Internation
+FamilyName:SVN-Internation
+StyleName:Regular
+FullName:SVN-Internation
+MenuName:SVN-Internation
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Internation.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:80268
+FileModTime:1361336104
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Internation
+NameArray:0,Win,1,SVN-Internation
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-KGTenThousandReasons
+FamilyName:SVN-KG Ten Thousand Reasons
+StyleName:Regular
+FullName:SVN-KG Ten Thousand Reasons
+MenuName:SVN-KG Ten Thousand Reasons
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-KG Ten Thousand Reasons.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:459864
+FileModTime:1425968666
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-KG Ten Thousand Reasons
+NameArray:0,Win,1,SVN-KG Ten Thousand Reasons
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Kimberley
+FamilyName:SVN-Kimberley
+StyleName:Regular
+FullName:SVN-Kimberley
+MenuName:SVN-Kimberley
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Kimberley.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64340
+FileModTime:1342369492
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Kimberley
+NameArray:0,Win,1,SVN-Kimberley
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-LinuxLibertineitalic
+FamilyName:SVN-Linux Libertine
+StyleName:Italic
+FullName:SVN-Linux Libertine italic
+MenuName:SVN-Linux Libertine
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Linux Libertine Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101328
+FileModTime:1428559216
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Linux Libertine italic
+NameArray:0,Win,1,SVN-Linux Libertine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-LinuxLibertinebolditalic
+FamilyName:SVN-Linux Libertine
+StyleName:Bold Italic
+FullName:SVN-Linux Libertine bold italic
+MenuName:SVN-Linux Libertine
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Linux Libertine bold italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:102668
+FileModTime:1428560520
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Linux Libertine bold italic
+NameArray:0,Win,1,SVN-Linux Libertine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-LinuxLibertinebold
+FamilyName:SVN-Linux Libertine
+StyleName:Bold
+FullName:SVN-Linux Libertine bold
+MenuName:SVN-Linux Libertine
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Linux Libertine bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:106960
+FileModTime:1428560016
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Linux Libertine bold
+NameArray:0,Win,1,SVN-Linux Libertine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-LinuxLibertine
+FamilyName:SVN-Linux Libertine
+StyleName:Regular
+FullName:SVN-Linux Libertine
+MenuName:SVN-Linux Libertine
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Linux Libertine regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:104600
+FileModTime:1428559678
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Linux Libertine
+NameArray:0,Win,1,SVN-Linux Libertine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Lobster
+FamilyName:SVN-Lobster
+StyleName:Regular
+FullName:SVN-Lobster
+MenuName:SVN-Lobster
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Lobster.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:104772
+FileModTime:1342358386
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Lobster
+NameArray:0,Win,1,SVN-Lobster
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Manus
+FamilyName:SVN-Manus
+StyleName:Regular
+FullName:SVN-Manus
+MenuName:SVN-Manus
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Manus.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:236696
+FileModTime:1442481216
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Manus
+NameArray:0,Win,1,SVN-Manus
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Maphylla
+FamilyName:SVN-Maphylla
+StyleName:Regular
+FullName:SVN-Maphylla
+MenuName:SVN-Maphylla
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Maphylla.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:53652
+FileModTime:1436775356
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Maphylla
+NameArray:0,Win,1,SVN-Maphylla
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-MarpesiaPro
+FamilyName:SVN-Marpesia Pro
+StyleName:Regular
+FullName:SVN-Marpesia Pro
+MenuName:SVN-Marpesia Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Marpesia Pro.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:281996
+FileModTime:1435651158
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Marpesia Pro
+NameArray:0,Mac,4,SVN-Marpesia Pro
+NameArray:0,Win,1,SVN-Marpesia Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-MarujoFino
+FamilyName:SVN-Marujo
+StyleName:Fino
+FullName:SVN-Marujo Fino
+MenuName:SVN-Marujo Fino
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Marujo Fino.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:182608
+FileModTime:1433389478
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Marujo Fino
+NameArray:0,Win,1,SVN-Marujo Fino
+NameArray:0,Win,16,SVN-Marujo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-MarujoPictures
+FamilyName:SVN-Marujo
+StyleName:Pictures
+FullName:SVN-Marujo Pictures
+MenuName:SVN-Marujo Pictures
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Marujo Pictures.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:102744
+FileModTime:1433389820
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Marujo Pictures
+NameArray:0,Win,1,SVN-Marujo Pictures
+NameArray:0,Win,16,SVN-Marujo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Marujo
+FamilyName:SVN-Marujo
+StyleName:Regular
+FullName:SVN-Marujo
+MenuName:SVN-Marujo
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Marujo.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:185880
+FileModTime:1433788396
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Marujo
+NameArray:0,Win,1,SVN-Marujo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-MergeRegular
+FamilyName:SVN-Merge
+StyleName:Regular
+FullName:SVN-Merge Regular
+MenuName:SVN-Merge
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Merge Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29140
+FileModTime:1436886930
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Merge Regular
+NameArray:0,Win,1,SVN-Merge
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-MillerBannerItalic
+FamilyName:SVN-Miller Banner
+StyleName:Italic
+FullName:SVN-Miller Banner Italic
+MenuName:SVN-Miller Banner
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Miller Banner Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:198196
+FileModTime:1447138832
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Miller Banner Italic
+NameArray:0,Win,1,SVN-Miller Banner
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-MillerBanner
+FamilyName:SVN-Miller Banner
+StyleName:Regular
+FullName:SVN-Miller Banner
+MenuName:SVN-Miller Banner
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Miller Banner.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:158800
+FileModTime:1447138786
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Miller Banner
+NameArray:0,Win,1,SVN-Miller Banner
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-MondayOrnaments
+FamilyName:SVN-Monday 
+StyleName:Ornaments
+FullName:SVN-Monday Ornaments
+MenuName:SVN-Monday Ornaments
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Monday Ornaments.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:40732
+FileModTime:1438446148
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Monday Ornaments
+NameArray:0,Win,1,SVN-Monday Ornaments
+NameArray:0,Win,16,SVN-Monday 
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Monday
+FamilyName:SVN-Monday
+StyleName:Regular
+FullName:SVN-Monday
+MenuName:SVN-Monday
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Monday.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:137880
+FileModTime:1438445052
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Monday
+NameArray:0,Win,1,SVN-Monday
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Moonstar
+FamilyName:SVN-Moon star
+StyleName:Regular
+FullName:SVN-Moon star
+MenuName:SVN-Moon star
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Moon Star.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:177840
+FileModTime:1361339380
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Moon star
+NameArray:0,Win,1,SVN-Moon star
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-MotionPicture
+FamilyName:SVN-Motion Picture
+StyleName:Regular
+FullName:SVN-Motion Picture
+MenuName:SVN-Motion Picture
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Motion Picture.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:73872
+FileModTime:1429622582
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Motion Picture
+NameArray:0,Win,1,SVN-Motion Picture
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Mutlu
+FamilyName:SVN-Mutlu
+StyleName: Ornamental
+FullName:SVN-Mutlu
+MenuName:SVN-Mutlu
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Mutlu.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:209952
+FileModTime:1361336026
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Mutlu
+NameArray:0,Win,1,SVN-Mutlu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Neogrey
+FamilyName:SVN-Neogrey
+StyleName:Regular
+FullName:SVN-Neogrey
+MenuName:SVN-Neogrey
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Neogrey.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:82636
+FileModTime:1370804298
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Neogrey
+NameArray:0,Win,1,SVN-Neogrey
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-NeusaBold
+FamilyName:SVN-Neusa
+StyleName:Bold
+FullName:SVN-Neusa Bold
+MenuName:SVN-Neusa
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Neusa Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:139676
+FileModTime:1445324606
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Neusa Bold
+NameArray:0,Win,1,SVN-Neusa
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Neusa
+FamilyName:SVN-Neusa
+StyleName:Regular
+FullName:SVN-Neusa
+MenuName:SVN-Neusa
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Neusa.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:138032
+FileModTime:1445324702
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Neusa
+NameArray:0,Win,1,SVN-Neusa
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Newton
+FamilyName:SVN-Newton
+StyleName:Regular
+FullName:SVN-Newton
+MenuName:SVN-Newton
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Newton.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:84876
+FileModTime:1342347264
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Newton
+NameArray:0,Win,1,SVN-Newton
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-NexaBold
+FamilyName:SVN-Nexa
+StyleName:Bold
+FullName:SVN-Nexa Bold
+MenuName:SVN-Nexa
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Nexa Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36092
+FileModTime:1431936312
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Nexa Bold
+NameArray:0,Win,1,SVN-Nexa
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-NexaBold
+FamilyName:SVN-Nexa
+StyleName:Bold
+FullName:SVN-Nexa Bold
+MenuName:SVN-Nexa
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Nexa Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:212992
+FileModTime:1522766708
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Nexa Bold
+NameArray:0,Win,1,SVN-Nexa
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-NexaLight
+FamilyName:SVN-Nexa
+StyleName:Light
+FullName:SVN-Nexa Light
+MenuName:SVN-Nexa Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Nexa Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:26440
+FileModTime:1431932990
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Nexa Light
+NameArray:0,Win,1,SVN-Nexa Light
+NameArray:0,Win,16,SVN-Nexa
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-NexaLight
+FamilyName:SVN-Nexa
+StyleName:Light
+FullName:SVN-Nexa Light
+MenuName:SVN-Nexa Light
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Nexa Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:193456
+FileModTime:1522766774
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Nexa Light
+NameArray:0,Win,1,SVN-Nexa Light
+NameArray:0,Win,16,SVN-Nexa
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-NexaRushHandmadeExtended
+FamilyName:SVN-Nexa Rush Handmade Extended
+StyleName:Regular
+FullName:SVN-Nexa Rush Handmade Extended
+MenuName:SVN-Nexa Rush Handmade Extended
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Nexa Rush Handmade Extended.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:457136
+FileModTime:1425889748
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Nexa Rush Handmade Extended
+NameArray:0,Win,1,SVN-Nexa Rush Handmade Extended
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-NexaRushSansBlack
+FamilyName:SVN-Nexa Rush Sans Black
+StyleName:Regular
+FullName:SVN-Nexa Rush Sans Black
+MenuName:SVN-Nexa Rush Sans Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Nexa Rush Sans Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:502620
+FileModTime:1425882292
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Nexa Rush Sans Black
+NameArray:0,Win,1,SVN-Nexa Rush Sans Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-NexaRushScript
+FamilyName:SVN-Nexa Rush Script
+StyleName:Regular
+FullName:SVN-Nexa Rush Script
+MenuName:SVN-Nexa Rush Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Nexa Rush Script.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:440360
+FileModTime:1425886328
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Nexa Rush Script
+NameArray:0,Win,1,SVN-Nexa Rush Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-NexaRushSlabBlackShadow
+FamilyName:SVN-Nexa Rush Slab Black Shadow
+StyleName:Regular
+FullName:SVN-Nexa Rush Slab Black Shadow
+MenuName:SVN-Nexa Rush Slab Black Shadow
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Nexa Rush Slab Black Shadow.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1341280
+FileModTime:1582936050
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Nexa Rush Slab Black Shadow
+NameArray:0,Win,1,SVN-Nexa Rush Slab Black Shadow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-NexaRustExtrasFree
+FamilyName:SVN-Nexa Rust Extras Free
+StyleName:Regular
+FullName:SVN-Nexa Rust Extras Free
+MenuName:SVN-Nexa Rust Extras Free
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Nexa Rust Extras Free.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71536
+FileModTime:1425890258
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Nexa Rust Extras Free
+NameArray:0,Win,1,SVN-Nexa Rust Extras Free
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-NickainleyScript
+FamilyName:SVN-Nickainley Script
+StyleName:Regular
+FullName:SVN-Nickainley Script
+MenuName:SVN-Nickainley Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Nickainley Script.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:38988
+FileModTime:1433746394
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Nickainley Script
+NameArray:0,Win,1,SVN-Nickainley Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Nickel
+FamilyName:SVN-Nickel
+StyleName:Regular
+FullName:SVN-Nickel
+MenuName:SVN-Nickel
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Nickel.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:158172
+FileModTime:1371295346
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Nickel
+NameArray:0,Win,1,SVN-Nickel
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Novelia
+FamilyName:SVN-Novelia
+StyleName:Regular
+FullName:SVN-Novelia
+MenuName:SVN-Novelia
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Novelia.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:369932
+FileModTime:1433066940
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Novelia
+NameArray:0,Win,1,SVN-Novelia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Okasanan
+FamilyName:SVN-Okasanan
+StyleName:Regular
+FullName:SVN-Okasanan
+MenuName:SVN-Okasanan
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Oksanan.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:114976
+FileModTime:1371296206
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Okasanan
+NameArray:0,Win,1,SVN-Okasanan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Olivier
+FamilyName:SVN-Olivier
+StyleName:Regular
+FullName:SVN-Olivier
+MenuName:SVN-Olivier
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Olivier.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:86256
+FileModTime:1364218990
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Olivier
+NameArray:0,Win,1,SVN-Olivier
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-ParisPro
+FamilyName:SVN-Paris Pro
+StyleName:Regular
+FullName:SVN-Paris Pro
+MenuName:SVN-Paris Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Paris Pro.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:336764
+FileModTime:1438526740
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Paris Pro
+NameArray:0,Win,1,SVN-Paris Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Passion
+FamilyName:SVN-Passion
+StyleName:Medium
+FullName:SVN-Passion
+MenuName:SVN-Passion
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Passion.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:8872
+FileModTime:1436709748
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Passion
+NameArray:0,Win,1,SVN-Passion
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-PepperHands
+FamilyName:SVN-Pepper Hands
+StyleName:Regular
+FullName:SVN-Pepper Hands
+MenuName:SVN-Pepper Hands
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Pepper-Hands.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:233476
+FileModTime:1500743464
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Pepper Hands
+NameArray:0,Win,1,SVN-Pepper Hands
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Poky's
+FamilyName:SVN-Poky's
+StyleName:Regular
+FullName:SVN-Poky's
+MenuName:SVN-Poky's
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Poky_s.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111472
+FileModTime:1427300370
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Poky's
+NameArray:0,Win,1,SVN-Poky's
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-PosterizerKGInline
+FamilyName:SVN-Posterizer KG Inline
+StyleName:Regular
+FullName:SVN-Posterizer KG Inline
+MenuName:SVN-Posterizer KG Inline
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Posterizer KG Inline.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:141192
+FileModTime:1440039874
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Posterizer KG Inline
+NameArray:0,Win,1,SVN-Posterizer KG Inline
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Prima
+FamilyName:SVN-Prima
+StyleName:Regular
+FullName:SVN-Prima
+MenuName:SVN-Prima
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Prima.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:759336
+FileModTime:1341464232
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Prima
+NameArray:0,Win,1,SVN-Prima
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-PyesPaHeadline
+FamilyName:SVN-Pyes Pa Headline
+StyleName:Regular
+FullName:SVN-Pyes Pa Headline
+MenuName:SVN-Pyes Pa Headline
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Pyes Pa Headline.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:188016
+FileModTime:1436768730
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Pyes Pa Headline
+NameArray:0,Win,1,SVN-Pyes Pa Headline
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Ready
+FamilyName:SVN-Ready
+StyleName:Regular
+FullName:SVN-Ready
+MenuName:SVN-Ready
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Ready.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:76284
+FileModTime:1350055902
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Ready
+NameArray:0,Win,1,SVN-Ready
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Redressed
+FamilyName:SVN-Redressed
+StyleName:Regular
+FullName:SVN-Redressed
+MenuName:SVN-Redressed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Redressed.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94708
+FileModTime:1341469816
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Redressed
+NameArray:0,Win,1,SVN-Redressed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Reliant
+FamilyName:SVN-Reliant
+StyleName:Regular
+FullName:SVN-Reliant
+MenuName:SVN-Reliant
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Reliant.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:193600
+FileModTime:1341473936
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Reliant
+NameArray:0,Win,1,SVN-Reliant
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Revolution
+FamilyName:SVN-Revolution
+StyleName:Regular
+FullName:SVN-Revolution
+MenuName:SVN-Revolution
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Revolution.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:393428
+FileModTime:1361424940
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Revolution
+NameArray:0,Win,1,SVN-Revolution
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Rex
+FamilyName:SVN-Rex
+StyleName:Regular
+FullName:SVN-Rex
+MenuName:SVN-Rex
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Rex.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:44276
+FileModTime:1359601944
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Rex
+NameArray:0,Win,1,SVN-Rex
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-RidemyBikeProBold
+FamilyName:SVN-RidemyBike Pro
+StyleName:Bold
+FullName:SVN-RidemyBike Pro Bold
+MenuName:SVN-RidemyBike Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-RidemyBike Pro Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:211476
+FileModTime:1433780558
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-RidemyBike Pro Bold
+NameArray:0,Win,1,SVN-RidemyBike Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-RidemyBikeProDingbat
+FamilyName:SVN-RidemyBike Pro
+StyleName:Dingbat
+FullName:SVN-RidemyBike Pro Dingbat
+MenuName:SVN-RidemyBike Pro Dingbat
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-RidemyBike Pro Dingbat.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28524
+FileModTime:1433780764
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-RidemyBike Pro Dingbat
+NameArray:0,Win,1,SVN-RidemyBike Pro Dingbat
+NameArray:0,Win,16,SVN-RidemyBike Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-RidemyBikePro
+FamilyName:SVN-RidemyBike Pro
+StyleName:Regular
+FullName:SVN-RidemyBike Pro
+MenuName:SVN-RidemyBike Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-RidemyBike Pro Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:206996
+FileModTime:1433778036
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-RidemyBike Pro
+NameArray:0,Win,1,SVN-RidemyBike Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Riesling
+FamilyName:SVN-Riesling
+StyleName:Regular
+FullName:SVN-Riesling
+MenuName:SVN-Riesling
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Riesling.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:71836
+FileModTime:1371295472
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Riesling
+NameArray:0,Win,1,SVN-Riesling
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Ringdena
+FamilyName:SVN-Ringdena
+StyleName:Regular
+FullName:SVN-Ringdena
+MenuName:SVN-Ringdena
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Ringdena.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:104644
+FileModTime:1434123700
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Ringdena
+NameArray:0,Win,1,SVN-Ringdena
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Rocker
+FamilyName:SVN-Rocker
+StyleName:Regular
+FullName:SVN-Rocker
+MenuName:SVN-Rocker
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Rocker.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:117060
+FileModTime:1361533394
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Rocker
+NameArray:0,Win,1,SVN-Rocker
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Rosalinda
+FamilyName:SVN-Rosalinda
+StyleName:Regular
+FullName:SVN-Rosalinda
+MenuName:SVN-Rosalinda
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Rosalinda.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:585828
+FileModTime:1434520364
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Rosalinda
+NameArray:0,Win,1,SVN-Rosalinda
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-RosellindaAlyamore
+FamilyName:SVN-Rosellinda Alyamore
+StyleName:Regular
+FullName:SVN-Rosellinda Alyamore
+MenuName:SVN-Rosellinda Alyamore
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Rosellinda Alyamore.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:78048
+FileModTime:1609554894
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Rosellinda Alyamore
+NameArray:0,Win,1,SVN-Rosellinda Alyamore
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Rounded
+FamilyName:SVN-Rounded
+StyleName:Regular
+FullName:SVN-Rounded
+MenuName:SVN-Rounded
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Rounded.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:54212
+FileModTime:1371293756
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Rounded
+NameArray:0,Win,1,SVN-Rounded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Russell
+FamilyName:SVN-Russell
+StyleName:Regular
+FullName:SVN-Russell
+MenuName:SVN-Russell
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Russell.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57440
+FileModTime:1361585534
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Russell
+NameArray:0,Win,1,SVN-Russell
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-SAF
+FamilyName:SVN-SAF
+StyleName:Regular
+FullName:SVN-SAF
+MenuName:SVN-SAF
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-SAF.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88200
+FileModTime:1425969338
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-SAF
+NameArray:0,Win,1,SVN-SAF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-ALoveOfThunder
+FamilyName:SVN-A Love Of Thunder
+StyleName:Regular
+FullName:SVN-A Love Of Thunder
+MenuName:SVN-A Love Of Thunder
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-SVN-A Love Of Thunder.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:597720
+FileModTime:1425484118
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-A Love Of Thunder
+NameArray:0,Win,1,SVN-A Love Of Thunder
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Sansation
+FamilyName:SVN-Sansation
+StyleName:Regular
+FullName:SVN-Sansation
+MenuName:SVN-Sansation
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Sansation.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64556
+FileModTime:1341200276
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Sansation
+NameArray:0,Win,1,SVN-Sansation
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Sarifa
+FamilyName:SVN-Sarifa
+StyleName:Regular
+FullName:SVN-Sarifa
+MenuName:SVN-Sarifa
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Sarifa.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:53668
+FileModTime:1438669374
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Sarifa
+NameArray:0,Win,1,SVN-Sarifa
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-SegoePrint
+FamilyName:SVN-Segoe Print
+StyleName:Regular
+FullName:SVN-Segoe Print
+MenuName:SVN-Segoe Print
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Segoe Print.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:147504
+FileModTime:1424663036
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Segoe Print
+NameArray:0,Win,1,SVN-Segoe Print
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-SegoeScript
+FamilyName:SVN-Segoe Script
+StyleName:Regular
+FullName:SVN-Segoe Script
+MenuName:SVN-Segoe Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Segoe Script.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:138892
+FileModTime:1341320626
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Segoe Script
+NameArray:0,Win,1,SVN-Segoe Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-SegoeUIBoldItalic
+FamilyName:SVN-Segoe UI
+StyleName:Bold Italic
+FullName:SVN-Segoe UI Bold Italic
+MenuName:SVN-Segoe UI
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Segoe UI Bold Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:108900
+FileModTime:1424048140
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Segoe UI Bold Italic
+NameArray:0,Win,1,SVN-Segoe UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-SegoeUIBold
+FamilyName:SVN-Segoe UI
+StyleName:Bold
+FullName:SVN-Segoe UI Bold
+MenuName:SVN-Segoe UI
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Segoe UI Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94444
+FileModTime:1388625268
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Segoe UI Bold
+NameArray:0,Win,1,SVN-Segoe UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-SegoeUICondensedBold
+FamilyName:SVN-Segoe UI Condensed
+StyleName:Bold
+FullName:SVN-Segoe UI Condensed Bold
+MenuName:SVN-Segoe UI Condensed
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Segoe UI Condensed bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:90092
+FileModTime:1428654954
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,SVN-Segoe UI Condensed Bold
+NameArray:0,Win,1,SVN-Segoe UI Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-SegoeUICondensed
+FamilyName:SVN-Segoe UI Condensed
+StyleName:Regular
+FullName:SVN-Segoe UI Condensed
+MenuName:SVN-Segoe UI Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Segoe UI Condensed.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:82440
+FileModTime:1428654866
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,SVN-Segoe UI Condensed
+NameArray:0,Win,1,SVN-Segoe UI Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-SegoeUIItalic
+FamilyName:SVN-Segoe UI
+StyleName:Italic
+FullName:SVN-Segoe UI Italic
+MenuName:SVN-Segoe UI
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Segoe UI Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:105116
+FileModTime:1388627094
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Segoe UI Italic
+NameArray:0,Win,1,SVN-Segoe UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-SegoeULightItalic
+FamilyName:SVN-Segoe UI Light
+StyleName:Italic
+FullName:SVN-Segoe UI Light Italic
+MenuName:SVN-Segoe UI Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Segoe UI Light Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92788
+FileModTime:1388628714
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Segoe UI Light Italic
+NameArray:0,Win,1,SVN-Segoe UI Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-SegoeULight
+FamilyName:SVN-Segoe UI Light
+StyleName:Regular
+FullName:SVN-Segoe UI Light
+MenuName:SVN-Segoe UI Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Segoe UI Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93796
+FileModTime:1388627996
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Segoe UI Light
+NameArray:0,Win,1,SVN-Segoe UI Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-SegoeUI
+FamilyName:SVN-Segoe UI
+StyleName:Regular
+FullName:SVN-Segoe UI
+MenuName:SVN-Segoe UI
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Segoe UI.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:96732
+FileModTime:1425882864
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Segoe UI
+NameArray:0,Win,1,SVN-Segoe UI
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-ServeticaMedium
+FamilyName:SVN-Servetica
+StyleName:Medium
+FullName:SVN-Servetica Medium
+MenuName:SVN-Servetica Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Servetica Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:49924
+FileModTime:1434025838
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Servetica Medium
+NameArray:0,Win,1,SVN-Servetica Medium
+NameArray:0,Win,16,SVN-Servetica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-ServeticaThin
+FamilyName:SVN-Servetica
+StyleName:Thin
+FullName:SVN-Servetica Thin
+MenuName:SVN-Servetica Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Servetica Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:43812
+FileModTime:1434018942
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Servetica Thin
+NameArray:0,Win,1,SVN-Servetica Thin
+NameArray:0,Win,16,SVN-Servetica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Sevillana
+FamilyName:SVN-Sevillana
+StyleName:Regular
+FullName:SVN-Sevillana
+MenuName:SVN-Sevillana
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Sevillana.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:230932
+FileModTime:1432618426
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Sevillana
+NameArray:0,Win,1,SVN-Sevillana
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-ShintiaScript
+FamilyName:SVN-Shintia Script
+StyleName:Regular
+FullName:SVN-Shintia Script
+MenuName:SVN-Shintia Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Shintia Script.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:221956
+FileModTime:1429981438
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Shintia Script
+NameArray:0,Win,1,SVN-Shintia Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Sliced
+FamilyName:SVN-Sliced
+StyleName:Regular Slice
+FullName:SVN-Sliced
+MenuName:SVN-Sliced
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Sliced.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:61704
+FileModTime:1342365728
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Sliced
+NameArray:0,Win,1,SVN-Sliced
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Snail
+FamilyName:SVN-Snail
+StyleName:Regular
+FullName:SVN-Snail
+MenuName:SVN-Snail
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Snail.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:95908
+FileModTime:1338462478
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Snail
+NameArray:0,Win,1,SVN-Snail
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-SnellRoundhandScriptBold
+FamilyName:SVN-Snell Roundhand Script
+StyleName:Bold
+FullName:SVN-Snell Roundhand Script Bold
+MenuName:SVN-Snell Roundhand Script
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Snell Roundhand Script Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:152644
+FileModTime:1428229214
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Snell Roundhand Script Bold
+NameArray:0,Win,1,SVN-Snell Roundhand Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-SnellRoundhandScript
+FamilyName:SVN-Snell Roundhand Script
+StyleName:Regular
+FullName:SVN-Snell Roundhand Script
+MenuName:SVN-Snell Roundhand Script
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Snell Roundhand Script.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:179028
+FileModTime:1428226760
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,SVN-Snell Roundhand Script
+NameArray:0,Win,1,SVN-Snell Roundhand Script
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Sofia
+FamilyName:SVN-Sofia
+StyleName:Regular
+FullName:SVN-Sofia
+MenuName:SVN-Sofia
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Sofia.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:131100
+FileModTime:1359556466
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Sofia
+NameArray:0,Win,1,SVN-Sofia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Square
+FamilyName:SVN-Square
+StyleName:Regular
+FullName:SVN-Square
+MenuName:SVN-Square
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Square.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:47476
+FileModTime:1349971254
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Square
+NameArray:0,Win,1,SVN-Square
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Standly
+FamilyName:SVN-Standly
+StyleName:Regular
+FullName:SVN-Standly
+MenuName:SVN-Standly
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Standly.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36296
+FileModTime:1435723166
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Standly
+NameArray:0,Win,1,SVN-Standly
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Steady
+FamilyName:SVN-Steady
+StyleName:Regular
+FullName:SVN-Steady
+MenuName:SVN-Steady
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Steady.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:50612
+FileModTime:1436289028
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Steady
+NameArray:0,Win,1,SVN-Steady
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Stella
+FamilyName:SVN-Stella
+StyleName:Regular
+FullName:SVN-Stella
+MenuName:SVN-Stella
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Stella.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:109880
+FileModTime:1434849952
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Stella
+NameArray:0,Win,1,SVN-Stella
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Strangelove
+FamilyName:SVN-Strangelove
+StyleName:Regular
+FullName:SVN-Strangelove
+MenuName:SVN-Strangelove
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Strangelove.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:143568
+FileModTime:1445495098
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Strangelove
+NameArray:0,Win,1,SVN-Strangelove
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Student
+FamilyName:SVN-Student
+StyleName:Regular
+FullName:SVN-Student
+MenuName:SVN-Student
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Student.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:151520
+FileModTime:1342343690
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Student
+NameArray:0,Win,1,SVN-Student
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Sunday
+FamilyName:SVN-Sunday
+StyleName:Regular
+FullName:SVN-Sunday
+MenuName:SVN-Sunday
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Sunday.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:295956
+FileModTime:1432620164
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Sunday
+NameArray:0,Win,1,SVN-Sunday
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Swashington
+FamilyName:SVN-Swashington
+StyleName:Regular
+FullName:SVN-Swashington
+MenuName:SVN-Swashington
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Swashington.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:243876
+FileModTime:1439118656
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Swashington
+NameArray:0,Win,1,SVN-Swashington
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Taiga
+FamilyName:SVN-Taiga
+StyleName:Regular
+FullName:SVN-Taiga
+MenuName:SVN-Taiga
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Taiga.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:456160
+FileModTime:1425375062
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Taiga
+NameArray:0,Win,1,SVN-Taiga
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Tamarindo
+FamilyName:SVN-Tamarindo
+StyleName:Regular
+FullName:SVN-Tamarindo
+MenuName:SVN-Tamarindo
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Tamarindo.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70524
+FileModTime:1442315106
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Tamarindo
+NameArray:0,Win,1,SVN-Tamarindo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-TheCarpenterBold
+FamilyName:SVN-The Carpenter
+StyleName:Bold
+FullName:SVN-The Carpenter Bold
+MenuName:SVN-The Carpenter
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-The Carpenter Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:177480
+FileModTime:1427546230
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-The Carpenter Bold
+NameArray:0,Win,1,SVN-The Carpenter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-TheCarpenterOrnaments
+FamilyName:SVN-The Carpenter Ornaments
+StyleName:Ornaments
+FullName:SVN-The Carpenter Ornaments
+MenuName:SVN-The Carpenter Ornaments
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-The Carpenter Ornaments.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:22360
+FileModTime:1427548376
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-The Carpenter Ornaments
+NameArray:0,Win,1,SVN-The Carpenter Ornaments
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TheCarpenterPatterns
+FamilyName:SVN-The Carpenter Patterns
+StyleName:Regular
+FullName:SVN-The Carpenter Patterns
+MenuName:SVN-The Carpenter Patterns
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-The Carpenter Patterns.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217784
+FileModTime:1427548718
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-The Carpenter Patterns
+NameArray:0,Win,1,SVN-The Carpenter Patterns
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-TheCarpenterPictograms
+FamilyName:SVN-The Carpenter Pictograms
+StyleName:Pictograms
+FullName:SVN-The Carpenter Pictograms
+MenuName:SVN-The Carpenter Pictograms
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-The Carpenter Pictograms.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:47480
+FileModTime:1427548094
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-The Carpenter Pictograms
+NameArray:0,Win,1,SVN-The Carpenter Pictograms
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-TheCarpenter
+FamilyName:SVN-The Carpenter
+StyleName:Regular
+FullName:SVN-The Carpenter
+MenuName:SVN-The Carpenter
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-The Carpenter Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:117440
+FileModTime:1427559366
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-The Carpenter
+NameArray:0,Win,1,SVN-The Carpenter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-TheVoiceHeavyItalic
+FamilyName:SVN-The Voice
+StyleName:Heavy Italic
+FullName:SVN-The Voice Heavy Italic
+MenuName:SVN-The Voice Heavy
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-The Voice Heavy Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:31228
+FileModTime:1429618372
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-The Voice Heavy Italic
+NameArray:0,Win,1,SVN-The Voice Heavy
+NameArray:0,Win,16,SVN-The Voice
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TheVoiceHeavyItalic
+FamilyName:SVN-The Voice
+StyleName:Heavy Italic
+FullName:SVN-The Voice Heavy Italic
+MenuName:SVN-The Voice Heavy
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-The Voice Heavy Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:117780
+FileModTime:1474284562
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-The Voice Heavy Italic
+NameArray:0,Win,1,SVN-The Voice Heavy
+NameArray:0,Win,16,SVN-The Voice
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-TheVoiceLight
+FamilyName:SVN-The Voice
+StyleName:Light
+FullName:SVN-The Voice Light
+MenuName:SVN-The Voice Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-The Voice Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:22964
+FileModTime:1429618092
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-The Voice Light
+NameArray:0,Win,1,SVN-The Voice Light
+NameArray:0,Win,16,SVN-The Voice
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TheVoiceLight
+FamilyName:SVN-The Voice
+StyleName:Light
+FullName:SVN-The Voice Light
+MenuName:SVN-The Voice Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-The Voice Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:79680
+FileModTime:1474282872
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-The Voice Light
+NameArray:0,Win,1,SVN-The Voice Light
+NameArray:0,Win,16,SVN-The Voice
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-TheVoice
+FamilyName:SVN-The Voice
+StyleName:Regular
+FullName:SVN-The Voice
+MenuName:SVN-The Voice
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-The Voice Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:21544
+FileModTime:1429618492
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-The Voice
+NameArray:0,Win,1,SVN-The Voice
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TheVoice
+FamilyName:SVN-The Voice
+StyleName:Regular
+FullName:SVN-The Voice
+MenuName:SVN-The Voice
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-The Voice Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:76820
+FileModTime:1474282818
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-The Voice
+NameArray:0,Win,1,SVN-The Voice
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TimesNewRoman2BoldItalic
+FamilyName:SVN-Times New Roman 2
+StyleName:Bold Italic
+FullName:SVN-Times New Roman 2 Bold Italic
+MenuName:SVN-Times New Roman 2
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Times New Roman 2 bold italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88348
+FileModTime:1370948966
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Times New Roman 2 Bold Italic
+NameArray:0,Win,1,SVN-Times New Roman 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TimesNewRoman2Bold
+FamilyName:SVN-Times New Roman 2
+StyleName:Bold
+FullName:SVN-Times New Roman 2 Bold
+MenuName:SVN-Times New Roman 2
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Times New Roman 2 bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:90728
+FileModTime:1370948918
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Times New Roman 2 Bold
+NameArray:0,Win,1,SVN-Times New Roman 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TimesNewRoman2Italic
+FamilyName:SVN-Times New Roman 2
+StyleName:Italic
+FullName:SVN-Times New Roman 2 Italic 
+MenuName:SVN-Times New Roman 2
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Times New Roman 2 italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87040
+FileModTime:1370949012
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Times New Roman 2 Italic 
+NameArray:0,Win,1,SVN-Times New Roman 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TimesNewRoman2
+FamilyName:SVN-Times New Roman 2
+StyleName:Regular
+FullName:SVN-Times New Roman 2
+MenuName:SVN-Times New Roman 2
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Times New Roman 2.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:88328
+FileModTime:1370948862
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Times New Roman 2
+NameArray:0,Win,1,SVN-Times New Roman 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TimesNewRomanbolditalic
+FamilyName:SVN-Times New Roman
+StyleName:Bold Italic
+FullName:SVN-Times New Roman bold italic
+MenuName:SVN-Times New Roman
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Times New Roman Bold Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:84132
+FileModTime:1371301482
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Times New Roman bold italic
+NameArray:0,Win,1,SVN-Times New Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TimesNewRomanbold
+FamilyName:SVN-Times New Roman
+StyleName:Bold
+FullName:SVN-Times New Roman bold
+MenuName:SVN-Times New Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Times New Roman Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:92204
+FileModTime:1371301452
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Times New Roman bold
+NameArray:0,Win,1,SVN-Times New Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TimesNewRomanitalic
+FamilyName:SVN-Times New Roman
+StyleName:Italic
+FullName:SVN-Times New Roman italic
+MenuName:SVN-Times New Roman
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Times New Roman Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87628
+FileModTime:1371301512
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Times New Roman italic
+NameArray:0,Win,1,SVN-Times New Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TimesNewRoman
+FamilyName:SVN-Times New Roman
+StyleName:Regular
+FullName:SVN-Times New Roman
+MenuName:SVN-Times New Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Times New Roman.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:89656
+FileModTime:1371301422
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Times New Roman
+NameArray:0,Win,1,SVN-Times New Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TitilliumBold
+FamilyName:SVN-Titillium Bold
+StyleName:Regular
+FullName:SVN-Titillium Bold
+MenuName:SVN-Titillium Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Titillium bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:78584
+FileModTime:1371350320
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Titillium Bold
+NameArray:0,Win,1,SVN-Titillium Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TitilliumLight
+FamilyName:SVN-Titillium Light
+StyleName:Regular
+FullName:SVN-Titillium Light
+MenuName:SVN-Titillium Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Titillium light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:78364
+FileModTime:1371350372
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Titillium Light
+NameArray:0,Win,1,SVN-Titillium Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-TitilliumMedium
+FamilyName:SVN-Titillium Medium
+StyleName:Regular
+FullName:SVN-Titillium Medium
+MenuName:SVN-Titillium Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Titillium medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:78656
+FileModTime:1371348090
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Titillium Medium
+NameArray:0,Win,1,SVN-Titillium Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Transformer
+FamilyName:SVN-Transformer
+FullName:SVN-Transformer
+MenuName:SVN-Transformer
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Transformer.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70764
+FileModTime:1335172196
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,SVN-Transformer
+NameArray:0,Mac,4,SVN-Transformer
+NameArray:0,Win,1,SVN-Transformer
+NameArray:0,Win,16,SVN-Transformer
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Trebuchets
+FamilyName:SVN-Trebuchets
+StyleName:Regular
+FullName:SVN-Trebuchets
+MenuName:SVN-Trebuchets
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Trebuchets.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:72048
+FileModTime:1371296086
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Trebuchets
+NameArray:0,Win,1,SVN-Trebuchets
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Unthrift
+FamilyName:SVN-Unthrift
+StyleName:Regular
+FullName:SVN-Unthrift
+MenuName:SVN-Unthrift
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Unthrift.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:112696
+FileModTime:1443078088
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Unthrift
+NameArray:0,Win,1,SVN-Unthrift
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Valentina
+FamilyName:SVN-Valentina
+StyleName:Regular
+FullName:SVN-Valentina
+MenuName:SVN-Valentina
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Valentina.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:112456
+FileModTime:1361414056
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Valentina
+NameArray:0,Win,1,SVN-Valentina
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-VanessasValentine
+FamilyName:SVN-Vanessas Valentine
+StyleName:Regular
+FullName:SVN-Vanessas Valentine
+MenuName:SVN-Vanessas Valentine
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Vanessas Valentine.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:245360
+FileModTime:1425971552
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Vanessas Valentine
+NameArray:0,Win,1,SVN-Vanessas Valentine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-VanillaDaisyPro
+FamilyName:SVN-Vanilla Daisy Pro
+StyleName:Regular
+FullName:SVN-Vanilla Daisy Pro
+MenuName:SVN-Vanilla Daisy Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Vanilla Daisy Pro.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:533080
+FileModTime:1444720636
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Vanilla Daisy Pro
+NameArray:0,Win,1,SVN-Vanilla Daisy Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Velvetberries
+FamilyName:SVN-Velvetberries
+StyleName:Regular
+FullName:SVN-Velvetberries
+MenuName:SVN-Velvetberries
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Velvetberries.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:507360
+FileModTime:1435211640
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Velvetberries
+NameArray:0,Win,1,SVN-Velvetberries
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-VeryBerry
+FamilyName:SVN-Very Berry
+StyleName:Regular
+FullName:SVN-Very Berry
+MenuName:SVN-Very Berry
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Very Berry.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:678724
+FileModTime:1440170018
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Very Berry
+NameArray:0,Win,1,SVN-Very Berry
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Wallington
+FamilyName:SVN-Wallington
+StyleName:Regular
+FullName:SVN-Wallington
+MenuName:SVN-Wallington
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Wallington.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:547656
+FileModTime:1430813830
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Wallington
+NameArray:0,Win,1,SVN-Wallington
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-WallowsOrnaments
+FamilyName:SVN-Wallows
+StyleName:Ornaments
+FullName:SVN-Wallows Ornaments
+MenuName:SVN-Wallows Ornaments
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Wallows Ornaments.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:20960
+FileModTime:1435909378
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Wallows Ornaments
+NameArray:0,Win,1,SVN-Wallows Ornaments
+NameArray:0,Win,16,SVN-Wallows
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Wallows
+FamilyName:SVN-Wallows
+StyleName:Regular
+FullName:SVN-Wallows
+MenuName:SVN-Wallows
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Wallows.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94960
+FileModTime:1435906914
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Wallows
+NameArray:0,Win,1,SVN-Wallows
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SVN-Wednesday
+FamilyName:SVN-Wednesday
+StyleName:Regular
+FullName:SVN-Wednesday
+MenuName:SVN-Wednesday
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Wednesday.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36580
+FileModTime:1441244734
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Wednesday
+NameArray:0,Win,1,SVN-Wednesday
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Whimsy
+FamilyName:SVN-Whimsy
+StyleName:Regular
+FullName:SVN-Whimsy
+MenuName:SVN-Whimsy
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Whimsy.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67944
+FileModTime:1361079364
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Whimsy
+NameArray:0,Win,1,SVN-Whimsy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Yahoo
+FamilyName:SVN-Yahoo
+StyleName:Regular
+FullName:SVN-Yahoo
+MenuName:SVN-Yahoo
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Yahoo.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:68684
+FileModTime:1359959504
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Yahoo
+NameArray:0,Win,1,SVN-Yahoo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Zebra
+FamilyName:SVN-Zebra
+StyleName:Regular
+FullName:SVN-Zebra
+MenuName:SVN-Zebra
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Zebra.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:108464
+FileModTime:1340246826
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Zebra
+NameArray:0,Win,1,SVN-Zebra
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Zero
+FamilyName:SVN-Zero
+StyleName:Regular
+FullName:SVN-Zero
+MenuName:SVN-Zero
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Zero.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60756
+FileModTime:1349707446
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Zero
+NameArray:0,Win,1,SVN-Zero
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-Ziclets
+FamilyName:SVN-Ziclets
+StyleName:Medium
+FullName:SVN-Ziclets
+MenuName:SVN-Ziclets
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\baocao\sanphamcongtyMT\Font\svn font\svn font\SVN-Ziclets.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:389156
+FileModTime:1436075914
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Ziclets
+NameArray:0,Win,1,SVN-Ziclets
+%EndFont
+
